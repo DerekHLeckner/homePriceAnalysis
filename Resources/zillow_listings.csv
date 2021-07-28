@@ -1,0 +1,800 @@
+,Address,Beds,Bathrooms,Square Footage,Property type
+0,"12 E 63rd St, New York, NY 10065",7 bds,11 ba,"13,000 sqft",- House for sale
+1,"2167 Crotona Ave APT 14, Bronx, NY 10457",1 bd,1 ba,550 sqft,- Condo for sale
+2,"100 W 57th St #11R, New York, NY 10019",1 bd,1 ba,900 sqft,- Condo for sale
+3,"100 W 57th St APT 5R, New York, NY 10019",1 bd,1 ba,900 sqft,- Condo for sale
+4,"111 W 57th St PENTHOUSE 72, New York, NY 10019",4 bds,6 ba,"7,130 sqft",- Condo for sale
+5,"8829 183rd St, Jamaica, NY 11423",3 bds,2 ba,"1,632 sqft",- House for sale
+6,"20 W 53rd St, New York, NY 10019",5 bds,6 ba,"7,381 sqft",- Condo for sale
+7,"303 E 57th St APT 32B, New York, NY 10022",2 bds,3 ba,"1,800 sqft",- Condo for sale
+8,"15 Maple Ave, Bronx, NY 10465",3 bds,3 ba,"1,700 sqft",- House for sale
+9,"216B Edgewater Park #B, Bronx, NY 10465",2 bds,1 ba,-- sqft,- Condo for sale
+10,"123 E 61st St, New York, NY 10065",7 bds,9 ba,"9,300 sqft",- House for sale
+11,"112-50 Northern Blvd #6B, Corona, NY 11368",2 bds,1 ba,-- sqft,- Condo for sale
+12,"301 E 61st St #19A, New York, NY 10065",4 bds,4 ba,"2,900 sqft",- Condo for sale
+13,"8 E 62nd St, New York, NY 10065",6 bds,8 ba,"14,825 sqft",- Townhouse for sale
+14,"226 E 38th St, Brooklyn, NY 11203",4 bds,2 ba,"1,300 sqft",- House for sale
+15,"12 E 69th St, New York, NY 10021",6 bds,8 ba,"20,000 sqft",- House for sale
+16,"388 Edinboro Rd, Staten Island, NY 10306",5 bds,6 ba,"5,368 sqft",- House for sale
+17,"1172 Fairfax Ave, Bronx, NY 10465",3 bds,3 ba,"1,296 sqft",- House for sale
+18,"3304 161st St, Flushing, NY 11358",3 bds,3 ba,"2,400 sqft",- For sale by owner
+19,"186 Heffernan St, Staten Island, NY 10312",4 bds,2 ba,"1,456 sqft",- House for sale
+20,"432 Park Ave #82, New York, NY 10022",6 bds,8 ba,"8,054 sqft",- Condo for sale
+21,"33 Ladd Ave, Staten Island, NY 10312",3 bds,3 ba,"1,332 sqft",- House for sale
+22,"149 S 4th St APT 19, Brooklyn, NY 11211",2 bds,1 ba,-- sqft,- Condo for sale
+23,"65-01 77th St, Middle Village, NY 11379",3 bds,2 ba,-- sqft,- House for sale
+24,"131-16 115th Ave, South Ozone Park, NY 11420",3 bds,2 ba,-- sqft,- House for sale
+25,"4 W 21st St APT 14B, New York, NY 10010",3 bds,3 ba,"1,674 sqft",- Apartment for sale
+26,"30 Tricia Way, Staten Island, NY 10307",5 bds,4 ba,"5,150 sqft",- House for sale
+27,"11 E 68th St PENTHOUSE W, New York, NY 10065",5 bds,6 ba,"6,189 sqft",- Condo for sale
+28,"313 W 4th St, New York, NY 10014",5 bds,7 ba,"5,300 sqft",- House for sale
+29,"310 E 46th St PENTHOUSE HJ, New York, NY 10017",6 bds,5 ba,"4,511 sqft",- Apartment for sale
+30,"14009 14th Ave, Flushing, NY 11357",5 bds,4 ba,"3,640 sqft",- House for sale
+31,"11831 221st St, Cambria Heights, NY 11411",3 bds,3 ba,-- sqft,- House for sale
+32,"1611 Plymouth Ave #A, Bronx, NY 10461",5 bds,4 ba,"3,060 sqft",- House for sale
+33,"24 Cooper St #5CD, New York, NY 10034",3 bds,2 ba,994 sqft,- Condo for sale
+34,"43 8th Ave, Brooklyn, NY 11217",6 bds,5 ba,"5,802 sqft",- House for sale
+35,"157 W 57th St PENTHOUSE 86, New York, NY 10019",4 bds,6 ba,"6,240 sqft",- Condo for sale
+36,"175 E 62nd St APT 18B, New York, NY 10065",2 bds,2 ba,"1,086 sqft",- Condo for sale
+37,"15905 134th Ave, Jamaica, NY 11434",5 bds,3 ba,"1,442 sqft",- House for sale
+38,"3 Riverview Ter, New York, NY 10022",4 bds,5 ba,"4,400 sqft",- House for sale
+39,"112-24 Northern Blvd UNIT 2D, Corona, NY 11368",3 bds,1 ba,-- sqft,- Condo for sale
+40,"2445 E 19th St, Brooklyn, NY 11235",3 bds,2 ba,"1,813 sqft",- Multi-family home for sale
+41,"53 W 53rd St #PH76, New York, NY 10019",4 bds,4 ba,"7,973 sqft",- Condo for sale
+42,"111 Murray St #PH2, New York, NY 10007",5 bds,7 ba,"7,488 sqft",- Condo for sale
+43,"3265 Tierney Pl, Bronx, NY 10465",3 bds,2 ba,"1,620 sqft",- House for sale
+44,"303 E 57th St APT 45G, New York, NY 10022",4 bds,4 ba,"3,300 sqft",- Condo for sale
+45,"416 College Ave, Staten Island, NY 10314",4 bds,3 ba,"1,766 sqft",- House for sale
+46,"11534 Van Wyck Expy, Jamaica, NY 11420",3 bds,3 ba,"1,728 sqft",- House for sale
+47,"601 Kappock St #1SR, Bronx, NY 10463",3 bds,2 ba,"1,250 sqft",- Condo for sale
+48,"422 Thieriot Ave, Bronx, NY 10473",4 bds,2 ba,"1,600 sqft",- House for sale
+49,"100 W 57th St #12R, New York, NY 10019",1 bd,1 ba,900 sqft,- Condo for sale
+50,"104-54 164th St, Jamaica, NY 11433",5 bds,2 ba,-- sqft,- House for sale
+51,"25 Milbank Rd, Staten Island, NY 10306",4 bds,2 ba,"2,304 sqft",- House for sale
+52,"350 E 82nd St #14AB, New York, NY 10028",4 bds,3 ba,"2,893 sqft",- For sale by owner
+53,"1125 5th Ave, New York, NY 10128",6 bds,7 ba,"70,820 sqft",- Condo for sale
+54,"432 Park Ave APT 52C, New York, NY 10022",3 bds,4 ba,"3,576 sqft",- For sale by owner
+55,"2856 Gerritsen Ave, Brooklyn, NY 11229",3 bds,2 ba,"1,216 sqft",- House for sale
+56,"154 18th St, Brooklyn, NY 11215",3 bds,3 ba,"2,100 sqft",- Multi-family home for sale
+57,"920 Metcalf Ave APT 12K, Bronx, NY 10473",1 bd,1 ba,675 sqft,- Condo for sale
+58,"170-10 118th Ave, Jamaica, NY 11434",4 bds,3 ba,"1,488 sqft",- Multi-family home for sale
+59,"420 E 51st St, New York, NY 10022",2 bds,2 ba,"155,000 sqft",- Condo for sale
+60,"2090 Madison Ave APT 3E, New York, NY 10037",3 bds,2 ba,750 sqft,- Condo for sale
+61,"106-43 156th St, Jamaica, NY 11433",8 bds,4 ba,"2,200 sqft",- Foreclosure
+62,"11415 118th St, Jamaica, NY 11420",7 bds,3 ba,"1,840 sqft",- House for sale
+63,"157 W 57th St PENTHOUSE 87, New York, NY 10019",4 bds,5 ba,"6,234 sqft",- Condo for sale
+64,"995 5th Ave, New York, NY 10028",6 bds,8 ba,"5,042 sqft",- Apartment for sale
+65,"68 E 93rd St APT 3R, New York, NY 10128",2 bds,1 ba,850 sqft,- For sale by owner
+66,"30 Park Pl #78A, New York, NY 10007",5 bds,7 ba,"6,127 sqft",- Condo for sale
+67,"621 E 29th St, Brooklyn, NY 11210",4 bds,2 ba,"2,484 sqft",- House for sale
+68,"1545 Robertson Pl, Bronx, NY 10465",2 bds,2 ba,"1,428 sqft",- House for sale
+69,"19 Elizabeth St, Staten Island, NY 10310",3 bds,2 ba,"1,302 sqft",- House for sale
+70,"424 E 115th St #2C, New York, NY 10029",Studio,1 ba,200 sqft,- Condo for sale
+71,"137-23 249th St, Rosedale, NY 11422",3 bds,2 ba,-- sqft,- Multi-family home for sale
+72,"420 E 51st St APT 3D, New York, NY 10022",2 bds,2 ba,"1,250 sqft",- Condo for sale
+73,"13543 120th St, Jamaica, NY 11420",4 bds,3 ba,"2,352 sqft",- Multi-family home for sale
+74,"443 Thieriot Ave, Bronx, NY 10473",6 bds,3 ba,"2,410 sqft",- House for sale
+75,"343 E 74th St PENTHOUSE 1D, New York, NY 10021",3 bds,4 ba,"1,862 sqft",- Apartment for sale
+76,"217 W 57th St #122, New York, NY 10019",5 bds,10 ba,"7,074 sqft",- Condo for sale
+77,"526 W 158th St APT 51, New York, NY 10032",3 bds,1 ba,900 sqft,- Condo for sale
+78,"100 W 57th St #19N, New York, NY 10019",1 bd,1 ba,900 sqft,- Condo for sale
+79,"6604 Avenue T, Brooklyn, NY 11234",5 bds,3 ba,"1,260 sqft",- House for sale
+80,"1004 Throggs Neck Expy #SR, Bronx, NY 10465",3 bds,2 ba,"1,296 sqft",- House for sale
+81,"3366 Agar Pl, Bronx, NY 10465",3 bds,3 ba,"2,590 sqft",- House for sale
+82,"526 W 158th St APT 62, New York, NY 10032",3 bds,1 ba,850 sqft,- Condo for sale
+83,"1515 W 7th St APT 4B, Brooklyn, NY 11204",1 bd,1 ba,800 sqft,- Condo for sale
+84,"153 Chambers St, New York, NY 10007",3 bds,3 ba,"2,500 sqft",- Condo for sale
+85,"15 Central Park W, New York, NY 10023",5 bds,7 ba,"5,902 sqft",- Condo for sale
+86,"9934 Bellaire Pl, Jamaica, NY 11429",3 bds,1 ba,"1,400 sqft",- House for sale
+87,"60-18 77th St, Middle Village, NY 11379",3 bds,3 ba,-- sqft,- House for sale
+88,"424 E 115th St #3A, New York, NY 10029",Studio,1 ba,200 sqft,- Condo for sale
+89,"933 W Fingerboard Rd, Staten Island, NY 10304",3 bds,3 ba,"2,211 sqft",- House for sale
+90,"36 Bleecker St, New York, NY 10012",3 bds,3 ba,"2,542 sqft",- Condo for sale
+91,"30 Park Pl #78B, New York, NY 10007",5 bds,7 ba,"5,937 sqft",- Condo for sale
+92,"855 E 178th St APT 3E, Bronx, NY 10460",1 bd,1 ba,600 sqft,- Condo for sale
+93,"100 W 57th St APT 3G, New York, NY 10019",1 bd,1 ba,950 sqft,- Condo for sale
+94,"755 Schenck Ave, Brooklyn, NY 11207",9 bds,3 ba,"2,976 sqft",- Multi-family home for sale
+95,"678 Saint Nicholas Ave APT 32, New York, NY 10030",1 bd,1 ba,"25,986 sqft",- Condo for sale
+96,"429 Doane Ave, Staten Island, NY 10308",4 bds,2 ba,"2,016 sqft",- House for sale
+97,"281 Wyona St, Brooklyn, NY 11207",9 bds,4 ba,"3,075 sqft",- Foreclosure
+98,"1170 Ocean Pkwy APT 7J, Brooklyn, NY 11230",2 bds,1 ba,"1,050 sqft",- Condo for sale
+99,"91-15 164th Ave, Howard Beach, NY 11414",3 bds,2 ba,"1,680 sqft",- House for sale
+100,"61 E 77th St, New York, NY 10075",1 bd,2 ba,"49,000 sqft",- Condo for sale
+101,"318 Beach 101 St, Rockaway Park, NY 11694",2 bds,2 ba,"1,010 sqft",- House for sale
+102,"303 E 57th St APT 44G, New York, NY 10022",3 bds,4 ba,"3,300 sqft",- Condo for sale
+103,"1399 Park Ave #19B, New York, NY 10029",4 bds,3 ba,"2,208 sqft",- Condo for sale
+104,"488 Philip Ave, Staten Island, NY 10312",5 bds,4 ba,"4,800 sqft",- House for sale
+105,"8121 Shore Rd, Brooklyn, NY 11209",7 bds,8 ba,"10,010 sqft",- House for sale
+106,"902 E 48th St, Brooklyn, NY 11203",3 bds,2 ba,"1,288 sqft",- House for sale
+107,"625 W 246th St, Bronx, NY 10471",8 bds,8 ba,"7,000 sqft",- House for sale
+108,"350 W 246th St, Bronx, NY 10471",3 bds,3 ba,"2,635 sqft",- House for sale
+109,"136-13 243rd St, Rosedale, NY 11422",3 bds,2 ba,"1,153 sqft",- House for sale
+110,"13437 155th St, Jamaica, NY 11434",4 bds,2 ba,"1,920 sqft",- House for sale
+111,"915 Jefferson Ave, Brooklyn, NY 11221",4 bds,5 ba,"2,000 sqft",- Multi-family home for sale
+112,"946 Hoe Ave APT 3B, Bronx, NY 10459",3 bds,1 ba,"17,550 sqft",- Condo for sale
+113,"311 E 3rd St APT 28, New York, NY 10009",2 bds,1 ba,"20,076 sqft",- Condo for sale
+114,"293 Lafayette St #PH1, New York, NY 10012",5 bds,7 ba,"7,241 sqft",- Condo for sale
+115,"1084 Gipson St, Far Rockaway, NY 11691",4 bds,3 ba,"1,818 sqft",- House for sale
+116,"451 W 24th St, New York, NY 10011",4 bds,5 ba,"5,000 sqft",- House for sale
+117,"554 E 18th St, Brooklyn, NY 11226",5 bds,5 ba,"4,000 sqft",- House for sale
+118,"13181 Francis Lewis Blvd, Laurelton, NY 11413",3 bds,1 ba,"1,479 sqft",- House for sale
+119,"140-16 135th Ave, Jamaica, NY 11436",0.91 acres lot,- Lot / Land for sale,empty,empty
+120,"13016 129th St, Jamaica, NY 11420",6 bds,2 ba,"2,300 sqft",- Multi-family home for sale
+121,"550 W 29th St PENTHOUSE B, New York, NY 10001",4 bds,5 ba,"3,290 sqft",- Condo for sale
+122,"2052 Bathgate Ave, Bronx, NY 10457",5 bds,3 ba,"1,516 sqft",- House for sale
+123,"750 W 232nd St, Bronx, NY 10463",5 bds,6 ba,"7,000 sqft",- House for sale
+124,"160 E 81st St, New York, NY 10028",8 bds,9 ba,550 sqft,- Townhouse for sale
+125,"83 Weldon St, Brooklyn, NY 11208",5 bds,4 ba,"2,808 sqft",- House for sale
+126,"1200 E 53rd St APT 7G, Brooklyn, NY 11234",2 bds,1 ba,-- sqft,- Condo for sale
+127,"246 83rd St, Brooklyn, NY 11209",6 bds,5 ba,"7,800 sqft",- House for sale
+128,"31 E 56th St, Brooklyn, NY 11203",5 bds,4 ba,"2,124 sqft",- Multi-family home for sale
+129,"15508 Linden Blvd, Jamaica, NY 11434",3 bds,2 ba,-- sqft,- House for sale
+130,"112-19 34th Ave APT 3H, Corona, NY 11368",2 bds,1 ba,"1,000 sqft",- Foreclosure
+131,"15 Central Park W PENTHOUSE 41, New York, NY 10023",4 bds,4 ba,"4,024 sqft",- Condo for sale
+132,"668 Halsey St #4, Brooklyn, NY 11233",2 bds,3 ba,908 sqft,- For sale by owner
+133,"8 E 63rd St, New York, NY 10065",9 bds,12 ba,"10,000 sqft",- Townhouse for sale
+134,"105 W 77th St APT 5C, New York, NY 10024",1 bd,1 ba,429 sqft,- For sale by owner
+135,"1463 Kennellworth Pl, Bronx, NY 10465",3 bds,2 ba,752 sqft,- House for sale
+136,"2023 Belmont Ave APT 3A, Bronx, NY 10457",2 bds,1 ba,731 sqft,- Condo for sale
+137,"2434 W 3rd St, Brooklyn, NY 11223",4 bds,3 ba,"1,930 sqft",- Multi-family home for sale
+138,"2156 Cruger Ave APT 4D, Bronx, NY 10462",3 bds,1 ba,"1,250 sqft",- Condo for sale
+139,"2063 Turnbull Ave, Bronx, NY 10473",2 bds,1 ba,"2,172 sqft",- House for sale
+140,"100 W 57th St APT 12I, New York, NY 10019",Studio,1 ba,650 sqft,- Condo for sale
+141,"205 E 63rd St APT 15D, New York, NY 10065",2 bds,2 ba,-- sqft,- Condo for sale
+142,"106 Utica Ave, Brooklyn, NY 11213",3 bds,2 ba,"1,080 sqft",- House for sale
+143,"699 Pelton Ave, Staten Island, NY 10310",4 bds,3 ba,"3,354 sqft",- House for sale
+144,"120-01 18th Ave #2, College Pt, NY 11356",6 bds,3 ba,"3,552 sqft",- Multi-family home for sale
+145,"271 Hicks St, Brooklyn, NY 11201",6 bds,9 ba,"6,354 sqft",- House for sale
+146,"100-36 Bellaire, Queens Village, NY 11429",4 bds,3 ba,"1,496 sqft",- House for sale
+147,"23-35 Bell Blvd #1A, Bayside, NY 11360",2 bds,1 ba,950 sqft,- Condo for sale
+148,"320 E 14th St APT 5, New York, NY 10003",4 bds,3 ba,"5,265 sqft",- Condo for sale
+149,"190-15 105th Ave, Saint Albans, NY 11412",4 bds,11 ba,-- sqft,- House for sale
+150,"53 W 53rd St #62, New York, NY 10019",4 bds,5 ba,"6,954 sqft",- Condo for sale
+151,"515 W 18th St PENTHOUSE 2201, New York, NY 10011",3 bds,4 ba,"2,614 sqft",- Condo for sale
+152,"163-45 Cross Bay Blvd, Howard Beach, NY 11414",3 bds,2 ba,-- sqft,- House for sale
+153,"854 5th Ave, New York, NY 10065",Studio,-- ba,"20,000 sqft",- Townhouse for sale
+154,"100 W 57th St APT 5J, New York, NY 10019",2 bds,2 ba,"1,200 sqft",- Condo for sale
+155,"178 8th Ave, Brooklyn, NY 11215",5 bds,4 ba,"6,070 sqft",- House for sale
+156,"2423 Butler Pl, Bronx, NY 10461",3 bds,2 ba,"1,272 sqft",- House for sale
+157,"1647 E 37th St, Brooklyn, NY 11234",4 bds,4 ba,"1,250 sqft",- House for sale
+158,"179-01 135th Ave, Jamaica, NY 11434",6 bds,5 ba,"2,060 sqft",- Multi-family home for sale
+159,"14720 257th St, Jamaica, NY 11422",4 bds,2 ba,"2,350 sqft",- House for sale
+160,"113-42 Springfield Blvd #A, Queens Village, NY 11429",5 bds,3 ba,-- sqft,- Multi-family home for sale
+161,"303 W 122nd St #34, New York, NY 10027",3 bds,1 ba,"1,090 sqft",- Condo for sale
+162,"21719 Hempstead Ave, Jamaica, NY 11429",3 bds,2 ba,"1,528 sqft",- House for sale
+163,"14-46 30th Rd, Astoria, NY 11102",6 bds,4 ba,"2,700 sqft",- Multi-family home for sale
+164,"26 Bank St, New York, NY 10014",4 bds,5 ba,"4,664 sqft",- Townhouse for sale
+165,"100 W 141st St APT 37, New York, NY 10030",4 bds,1 ba,"1,250 sqft",- Condo for sale
+166,"272 Buttrick Ave #KK3, Bronx, NY 10465",3 bds,2 ba,920 sqft,- Condo for sale
+167,"166-42 17th Rd #3118, Whitestone, NY 11357",2 bds,1 ba,800 sqft,- Condo for sale
+168,"36 Grace Ct, Brooklyn, NY 11201",6 bds,5 ba,"4,210 sqft",- House for sale
+169,"298 E 2nd St #3, New York, NY 10009",3 bds,3 ba,"1,838 sqft",- Condo for sale
+170,"82-16 34th Ave #3, Jackson Heights, NY 11372",1 bd,1 ba,600 sqft,- Condo for sale
+171,"114-50 174th St, Jamaica, NY 11434",6 bds,5 ba,-- sqft,- New construction
+172,"641 Thieriot Ave, Bronx, NY 10473",4 bds,2 ba,"2,480 sqft",- House for sale
+173,"39 Rokeby Pl, Staten Island, NY 10310",3 bds,2 ba,"1,729 sqft",- House for sale
+174,"47 Columbia Pl, Brooklyn, NY 11201",4 bds,4 ba,"3,716 sqft",- House for sale
+175,"163 E 64th St, New York, NY 10065",5 bds,7 ba,"8,000 sqft",- House for sale
+176,"16 Swinnerton St, Staten Island, NY 10307",3 bds,3 ba,"1,397 sqft",- House for sale
+177,"333 E 91st St #28CD, New York, NY 10128",4 bds,5 ba,"2,952 sqft",- Apartment for sale
+178,"5 Stratford Rd APT 2, Brooklyn, NY 11218",3 bds,1 ba,"1,200 sqft",- Condo for sale
+179,"10218 Russell St, Jamaica, NY 11414",2 bds,2 ba,-- sqft,- House for sale
+180,"9807 Avenue L, Brooklyn, NY 11236",4 bds,3 ba,"1,400 sqft",- House for sale
+181,"107-51 Springfield Blvd, Queens Village, NY 11429",4 bds,3 ba,-- sqft,- House for sale
+182,"147 Edgewater Park #147D, Bronx, NY 10465",2 bds,1 ba,-- sqft,- Condo for sale
+183,"5212 Avenue M, Brooklyn, NY 11234",3 bds,4 ba,378 sqft,- House for sale
+184,"312 Greene Ave, Brooklyn, NY 11238",5 bds,5 ba,"3,368 sqft",- Multi-family home for sale
+185,"1200 Woodycrest Ave APT 4A, Bronx, NY 10452",Studio,1 ba,550 sqft,- Apartment for sale
+186,"3845 Shore Pkwy APT 1M, Brooklyn, NY 11235",1 bd,1 ba,550 sqft,- Foreclosure
+187,"73 W Washington Pl, New York, NY 10011",6 bds,9 ba,"8,643 sqft",- Townhouse for sale
+188,"295 Skyline Dr #C, Staten Island, NY 10304",3 bds,2 ba,"1,347 sqft",- Condo for sale
+189,"43-20 219th St, Bayside, NY 11361",3 bds,2 ba,-- sqft,- House for sale
+190,"214-01 112th Rd, Queens Village, NY 11429",3 bds,3 ba,"1,524 sqft",- House for sale
+191,"312 W 71st St, New York, NY 10023",6 bds,7 ba,"5,115 sqft",- Townhouse for sale
+192,"522 W 29th St, New York, NY 10001",5 bds,6 ba,"4,510 sqft",- Condo for sale
+193,"112-30 Northern Blvd APT 2E, Corona, NY 11368",1 bd,1 ba,-- sqft,- Condo for sale
+194,"140-39 34th Ave SUITE 6K, Flushing, NY 11354",3 bds,2 ba,"1,200 sqft",- Condo for sale
+195,"345 W Broadway #LOFT5, New York, NY 10013",3 bds,3 ba,"2,200 sqft",- Condo for sale
+196,"350 150th St, Flushing, NY 11357",4 bds,5 ba,"2,754 sqft",- House for sale
+197,"3395 Nostrand Ave APT 3, Brooklyn, NY 11229",2 bds,2 ba,"1,000 sqft",- Condo for sale
+198,"188-72 85th Rd, Hollis, NY 11423",4 bds,3 ba,"2,150 sqft",- House for sale
+199,"11560 198th St, Jamaica, NY 11412",5 bds,3 ba,"1,730 sqft",- House for sale
+200,"1777 Madison Ave #33, New York, NY 10035",1 bd,1 ba,-- sqft,- Condo for sale
+201,"3235 200th St, Flushing, NY 11361",4 bds,2 ba,"1,958 sqft",- House for sale
+202,"214 W 11th St, New York, NY 10014",5 bds,6 ba,"3,344 sqft",- Townhouse for sale
+203,"307 Halsey St, Brooklyn, NY 11216",5 bds,3 ba,"3,000 sqft",- Multi-family home for sale
+204,"26 Fillmore St, Staten Island, NY 10301",4 bds,2 ba,"1,390 sqft",- House for sale
+205,"704 Brook Ave APT 3U, Bronx, NY 10455",2 bds,2 ba,"1,100 sqft",- Condo for sale
+206,"120 Jefferson Ave, Brooklyn, NY 11216",4 bds,2 ba,"2,216 sqft",- Townhouse for sale
+207,"343 E 74th St APT 15B, New York, NY 10021",3 bds,3 ba,"1,198 sqft",- Apartment for sale
+208,"17358 105th Ave, Jamaica, NY 11433",6 bds,3 ba,974 sqft,- House for sale
+209,"303 E 57th St #17CD, New York, NY 10022",2 bds,3 ba,"2,200 sqft",- Condo for sale
+210,"310 Riverside Dr APT 314, New York, NY 10025",1 bd,1 ba,531 sqft,- Condo for sale
+211,"151 E 58th St PENTHOUSE 5152W, New York, NY 10022",5 bds,7 ba,"9,000 sqft",- Condo for sale
+212,"39 Austin Ave, Staten Island, NY 10305",5 bds,3 ba,"2,007 sqft",- House for sale
+213,"116-30 128th St, South Ozone Park, NY 11420",3 bds,2 ba,"1,920 sqft",- House for sale
+214,"80 W Washington Pl, New York, NY 10011",6 bds,9 ba,"8,757 sqft",- House for sale
+215,"75-24 Bell Blvd APT 5A, Oakland Gardens, NY 11364",2 bds,2 ba,-- sqft,- Condo for sale
+216,"53 Stanton St APT 5A, New York, NY 10002",1 bd,1 ba,-- sqft,- Condo for sale
+217,"303 E 57th St APT 9H, New York, NY 10022",1 bd,1 ba,-- sqft,- Condo for sale
+218,"33 E 74th St, New York, NY 10021",5 bds,6 ba,"10,088 sqft",- Townhouse for sale
+219,"10 E 62nd St, New York, NY 10065",10 bds,17 ba,"14,750 sqft",- Multi-family home for sale
+220,"1034 E 212th St, Bronx, NY 10469",3 bds,2 ba,"2,314 sqft",- Multi-family home for sale
+221,"935 E 178th St, Bronx, NY 10460",2 bds,1 ba,990 sqft,- New construction
+222,"232 Oakland Ave, Staten Island, NY 10310",4 bds,3 ba,"1,792 sqft",- House for sale
+223,"108 5th Ave #12B, New York, NY 10003",2 bds,2 ba,"1,296 sqft",- Condo for sale
+224,"7015 Manse St, Flushing, NY 11375",3 bds,2 ba,"1,674 sqft",- House for sale
+225,"5 E 63rd St, New York, NY 10065",13 bds,19 ba,"11,875 sqft",- Multi-family home for sale
+226,"1755 W 8th St, Brooklyn, NY 11223",6 bds,3 ba,"1,504 sqft",- Multi-family home for sale
+227,"380 E 8th St, Brooklyn, NY 11218",4 bds,3 ba,"2,237 sqft",- House for sale
+228,"217 W 57th St #115, New York, NY 10019",5 bds,6 ba,"7,074 sqft",- Condo for sale
+229,"111-74 145th St, Jamaica, NY 11435",3 bds,4 ba,-- sqft,- House for sale
+230,"597 Mac Donough St, Brooklyn, NY 11233",4 bds,3 ba,"2,268 sqft",- Multi-family home for sale
+231,"15 Central Park W #PH43, New York, NY 10023",3 bds,5 ba,"4,739 sqft",- Condo for sale
+232,"5425 Valles Ave APT 5F, Bronx, NY 10471",2 bds,1 ba,-- sqft,- Condo for sale
+233,"30 E 29th St #PHA, New York, NY 10016",3 bds,4 ba,"4,394 sqft",- Condo for sale
+234,"10019 201st St, Jamaica, NY 11423",Studio,-- ba,"1,940 sqft",- House for sale
+235,"2800 Schurz Ave, Bronx, NY 10465",5 bds,5 ba,"3,321 sqft",- House for sale
+236,"14 Peter Ct, Staten Island, NY 10304",6 bds,8 ba,"13,500 sqft",- House for sale
+237,"25 W 54th St #6A, New York, NY 10019",1 bd,1 ba,"72,845 sqft",- Condo for sale
+238,"1666 W 2nd St, Brooklyn, NY 11223",3 bds,3 ba,"2,000 sqft",- House for sale
+239,"2186 Cedar Ave, Bronx, NY 10468",6 bds,5 ba,"2,860 sqft",- Multi-family home for sale
+240,"21 W 20th St, New York, NY 10011",3 bds,3 ba,"2,710 sqft",- Condo for sale
+241,"2237 Bath Ave #3A, Brooklyn, NY 11214",3 bds,2 ba,"1,161 sqft",- Condo for sale
+242,"531 E 83rd St APT 4B, New York, NY 10028",2 bds,1 ba,-- sqft,- Condo for sale
+243,"420 E 51st St PENTHOUSE B, New York, NY 10022",2 bds,3 ba,"1,700 sqft",- Condo for sale
+244,"420 E 51st St APT 3C, New York, NY 10022",2 bds,2 ba,"1,200 sqft",- Condo for sale
+245,"408 W 25th St APT 3RW, New York, NY 10001",1 bd,1 ba,450 sqft,- Condo for sale
+246,"27 E 65th St APT 14E, New York, NY 10065",3 bds,3 ba,"1,850 sqft",- Condo for sale
+247,"611 W 156th St #54, New York, NY 10032",3 bds,2 ba,-- sqft,- Condo for sale
+248,"3190 Ampere Ave, Bronx, NY 10465",6 bds,4 ba,"3,144 sqft",- House for sale
+249,"147-35 Village Rd #35B, Jamaica, NY 11435",3 bds,2 ba,-- sqft,- Condo for sale
+250,"232 E 61st St, New York, NY 10065",5 bds,8 ba,"7,000 sqft",- Townhouse for sale
+251,"104-20 68th Dr #AA3, Forest Hills, NY 11375",2 bds,1 ba,"1,000 sqft",- Condo for sale
+252,"19018 114th Dr, Saint Albans, NY 11412",4 bds,2 ba,"1,629 sqft",- House for sale
+253,"1793 Mansion St, Bronx, NY 10460",5 bds,3 ba,"2,208 sqft",- Multi-family home for sale
+254,"24-43 32nd St #A, Astoria, NY 11102",3 bds,2 ba,"1,880 sqft",- Townhouse for sale
+255,"128 Silver Lake Rd, Staten Island, NY 10301",3 bds,1 ba,"2,180 sqft",- Multi-family home for sale
+256,"27 E 65th St APT 14B, New York, NY 10065",2 bds,2 ba,"1,500 sqft",- Condo for sale
+257,"1620 Radcliff Ave, Bronx, NY 10462",3 bds,2 ba,910 sqft,- House for sale
+258,"303 W 122nd St #64, New York, NY 10027",3 bds,1 ba,"1,090 sqft",- Condo for sale
+259,"860 United Nations Plz APT 31C, New York, NY 10017",5 bds,6 ba,"4,185 sqft",- Condo for sale
+260,"11 Saint Nicholas Ave APT 4D, New York, NY 10026",Studio,1 ba,-- sqft,- Condo for sale
+261,"187-15 Ludlum Ave, St Albans, NY 11412",3 bds,2 ba,"1,207 sqft",- House for sale
+262,"321 Mayfair Dr N, Brooklyn, NY 11234",5 bds,4 ba,"4,659 sqft",- House for sale
+263,"55 1/2 Downing St #2, New York, NY 10014",2 bds,2 ba,-- sqft,- Condo for sale
+264,"144 Reade St, New York, NY 10013",5 bds,6 ba,"6,600 sqft",- Townhouse for sale
+265,"1834 85th St, Brooklyn, NY 11214",4 bds,4 ba,"2,694 sqft",- Multi-family home for sale
+266,"144-55 Melbourne Ave APT 3F, Flushing, NY 11367",2 bds,1 ba,"1,000 sqft",- Condo for sale
+267,"340 E 18th St, Brooklyn, NY 11226",7 bds,3 ba,"2,848 sqft",- House for sale
+268,"14787 Brookville Blvd, Jamaica, NY 11422",4 bds,2 ba,-- sqft,- Multi-family home for sale
+269,"28-54 216th St, Bayside, NY 11360",3 bds,3 ba,"2,301 sqft",- House for sale
+270,"11860 227th St, Jamaica, NY 11411",2 bds,1 ba,"1,038 sqft",- Home for sale
+271,"3452 Ely Ave, Bronx, NY 10469",5 bds,3 ba,"2,300 sqft",- Multi-family home for sale
+272,"36 Dahill Rd APT 4L, Brooklyn, NY 11218",Studio,1 ba,420 sqft,- For sale by owner
+273,"343 E 18th St, New York, NY 10003",6 bds,5 ba,"6,000 sqft",- Townhouse for sale
+274,"422 W 49th St #1A, New York, NY 10019",Studio,1 ba,375 sqft,- Condo for sale
+275,"975 Union Ave APT 20, Bronx, NY 10459",2 bds,1 ba,800 sqft,- Condo for sale
+276,"17 Bowen St, Staten Island, NY 10304",3 bds,2 ba,"1,176 sqft",- House for sale
+277,"2168 66th St, Brooklyn, NY 11204",-- bds,3 ba,"2,008 sqft",- Multi-family home for sale
+278,"301 E 81st St PENTHOUSE 20, New York, NY 10028",5 bds,7 ba,"5,383 sqft",- Condo for sale
+279,"79 Lamport Blvd, Staten Island, NY 10305",3 bds,2 ba,"1,312 sqft",- House for sale
+280,"38 Gramercy Park N APT 1C, New York, NY 10010",Studio,1 ba,-- sqft,- Condo for sale
+281,"3238 Layton Ave, Bronx, NY 10465",3 bds,3 ba,"1,116 sqft",- House for sale
+282,"809 Halsey St, Brooklyn, NY 11233",5 bds,4 ba,"3,000 sqft",- Multi-family home for sale
+283,"105 W 122nd St, New York, NY 10027",5 bds,6 ba,"4,300 sqft",- Townhouse for sale
+284,"2140 Knapp St APT 3E, Brooklyn, NY 11229",2 bds,1 ba,950 sqft,- Condo for sale
+285,"231 Albany Ave, Brooklyn, NY 11213",5 bds,4 ba,"3,024 sqft",- Townhouse for sale
+286,"23-25 Bell Blvd #6-G, Bayside, NY 11360",3 bds,2 ba,-- sqft,- Condo for sale
+287,"134 Decatur St, Brooklyn, NY 11216",5 bds,3 ba,"3,600 sqft",- Multi-family home for sale
+288,"150 E 49th St, New York, NY 10017",2 bds,2 ba,"4,414 sqft",- Condo for sale
+289,"1160 Colgate Ave APT 4B, Bronx, NY 10472",1 bd,1 ba,600 sqft,- Condo for sale
+290,"30 Dintree Ln, Staten Island, NY 10307",3 bds,4 ba,"2,112 sqft",- House for sale
+291,"30 Park Pl #82, New York, NY 10007",3 bds,5 ba,"4,538 sqft",- Condo for sale
+292,"251 Quincy Ave, Bronx, NY 10465",4 bds,3 ba,"2,100 sqft",- Multi-family home for sale
+293,"190 E 72nd St APT 31B, New York, NY 10021",2 bds,2 ba,-- sqft,- Condo for sale
+294,"484 Greenwich St, New York, NY 10013",4 bds,7 ba,"9,715 sqft",- Townhouse for sale
+295,"7101 Shore Rd #2, Brooklyn, NY 11209",2 bds,2 ba,"1,150 sqft",- Condo for sale
+296,"1019 Van Siclen Ave APT 7D, Brooklyn, NY 11207",3 bds,2 ba,"1,186 sqft",- Condo for sale
+297,"209-15 18th Ave APT 5F, Bayside, NY 11360",3 bds,2 ba,-- sqft,- New construction
+298,"13921 85th Dr APT 1C, Jamaica, NY 11435",2 bds,1 ba,-- sqft,- Condo for sale
+299,"1647 E 37th St #1, Brooklyn, NY 11234",4 bds,4 ba,"1,024 sqft",- House for sale
+300,"1867 7th Ave #2A, New York, NY 10026",2 bds,1 ba,766 sqft,- Foreclosure
+301,"736 Bergen St, Brooklyn, NY 11238",4 bds,2 ba,"2,000 sqft",- For sale by owner
+302,"1993 Amsterdam Ave APT 64, New York, NY 10032",2 bds,1 ba,700 sqft,- Condo for sale
+303,"73 Wooster St APT 2B, New York, NY 10012",4 bds,4 ba,"4,511 sqft",- Condo for sale
+304,"910 Todt Hill Rd, Staten Island, NY 10304",4 bds,4 ba,"2,200 sqft",- House for sale
+305,"90-59 56th Ave #2, Elmhurst, NY 11373",3 bds,2 ba,-- sqft,- Condo for sale
+306,"71 Elm St, Staten Island, NY 10310",3 bds,4 ba,"2,585 sqft",- House for sale
+307,"566 Hendrix St, Brooklyn, NY 11207",3 bds,2 ba,"1,134 sqft",- House for sale
+308,"944 E 178th St #A, Bronx, NY 10460",2 bds,1 ba,800 sqft,- Condo for sale
+309,"103-30 68th Ave APT 4A, Forest Hills, NY 11375",1 bd,1 ba,750 sqft,- For sale by owner
+310,"2475 W 16th St APT 14C, Brooklyn, NY 11214",3 bds,2 ba,"1,250 sqft",- Condo for sale
+311,"124 W 132nd St, New York, NY 10027",5 bds,6 ba,"4,250 sqft",- Townhouse for sale
+312,"965C Kent Ave #C3, Brooklyn, NY 11205",3 bds,2 ba,"2,025 sqft",- Condo for sale
+313,"69-21 Manse St, Forest Hills, NY 11375",3 bds,3 ba,"1,350 sqft",- House for sale
+314,"316 W 47th St APT 3RE, New York, NY 10036",1 bd,1 ba,328 sqft,- Condo for sale
+315,"30 Grove St, New York, NY 10014",5 bds,6 ba,"5,864 sqft",- Townhouse for sale
+316,"230 Tompkins Ave, Brooklyn, NY 11216",4 bds,3 ba,"2,300 sqft",- House for sale
+317,"9059 56th Ave APT 2K, Elmhurst, NY 11373",3 bds,2 ba,-- sqft,- Condo for sale
+318,"190 E 72nd St APT 11B, New York, NY 10021",2 bds,2 ba,-- sqft,- Condo for sale
+319,"1657 Fowler Ave, Bronx, NY 10462",3 bds,2 ba,"1,512 sqft",- House for sale
+320,"636 E 14th St APT 6, New York, NY 10009",1 bd,1 ba,500 sqft,- Condo for sale
+321,"1947 65th St FLOOR 4C-4, Brooklyn, NY 11204",1 bd,1 ba,650 sqft,- Condo for sale
+322,"1947 65th St APT 4C, Brooklyn, NY 11204",1 bd,1 ba,650 sqft,- Condo for sale
+323,"333 E 91st St APT 29D, New York, NY 10128",2 bds,3 ba,"1,499 sqft",- Apartment for sale
+324,"246 E 90th St APT 5B, New York, NY 10128",1 bd,1 ba,-- sqft,- Condo for sale
+325,"21-27 33rd St APT 5G, Astoria, NY 11105",2 bds,1 ba,-- sqft,- Condo for sale
+326,"50 Lexington Ave APT 19E, New York, NY 10010",2 bds,2 ba,"1,050 sqft",- Apartment for sale
+327,"1827 83rd St #2C, Brooklyn, NY 11214",3 bds,2 ba,"1,120 sqft",- Condo for sale
+328,"906 Putnam Ave, Brooklyn, NY 11221",3 bds,2 ba,"1,640 sqft",- Multi-family home for sale
+329,"161 Lamped Loop #A54, Staten Island, NY 10314",4 bds,2 ba,"1,318 sqft",- Apartment for sale
+330,"775 Lafayette Ave APT 14E, Brooklyn, NY 11221",2 bds,2 ba,986 sqft,- Condo for sale
+331,"814 Tilden St #3C, Bronx, NY 10467",1 bd,1 ba,750 sqft,- Condo for sale
+332,"342 E 110th St #7D, New York, NY 10029",2 bds,2 ba,820 sqft,- Condo for sale
+333,"4231 Bruner Ave, Bronx, NY 10466",3 bds,2 ba,"1,185 sqft",- Auction
+334,"125 Arbutus Ave, Staten Island, NY 10312",4 bds,4 ba,"2,270 sqft",- House for sale
+335,"3347 Lucerne St, Bronx, NY 10465",4 bds,2 ba,"2,040 sqft",- House for sale
+336,"327 Admiral Ln #1327D, Bronx, NY 10473",3 bds,3 ba,"1,377 sqft",- Condo for sale
+337,"269 W 153rd St UNIT 12, New York, NY 10039",4 bds,1 ba,-- sqft,- Condo for sale
+338,"346B 13th St, Brooklyn, NY 11215",4 bds,5 ba,"3,333 sqft",- House for sale
+339,"456 W 167th St APT 3D, New York, NY 10032",2 bds,2 ba,728 sqft,- Condo for sale
+340,"130 Lenox Ave APT 206, New York, NY 10026",2 bds,1 ba,-- sqft,- For sale by owner
+341,"4318 De Reimer Ave, Bronx, NY 10466",3 bds,2 ba,"1,450 sqft",- House for sale
+342,"379 2nd St, Brooklyn, NY 11215",4 bds,2 ba,"2,536 sqft",- House for sale
+343,"929 Park Ave #1A, New York, NY 10028",2 bds,2 ba,800 sqft,- Condo for sale
+344,"96 Fort Greene Pl, Brooklyn, NY 11217",6 bds,6 ba,"3,980 sqft",- Townhouse for sale
+345,"234-34 133rd Ave #1, Rosedale, NY 11422",1 bd,1 ba,700 sqft,- Condo for sale
+346,"190-15 121st Ave, Saint Albans, NY 11412",6 bds,5 ba,-- sqft,- Multi-family home for sale
+347,"130 Henry St APT 4F, Brooklyn, NY 11201",Studio,1 ba,-- sqft,- Condo for sale
+348,"1534 W 10th St, Brooklyn, NY 11204",7 bds,4 ba,"3,600 sqft",- Multi-family home for sale
+349,"4706 201st St, Bayside, NY 11361",3 bds,3 ba,-- sqft,- House for sale
+350,"16433 83rd St, Jamaica, NY 11414",6 bds,5 ba,-- sqft,- House for sale
+351,"1646 Bogart Ave, Bronx, NY 10462",8 bds,3 ba,"3,300 sqft",- Multi-family home for sale
+352,"242 S 1st St APT 1E, Brooklyn, NY 11211",2 bds,2 ba,"1,432 sqft",- Condo for sale
+353,"57 Birch Rd, Staten Island, NY 10303",5 bds,2 ba,"2,410 sqft",- Multi-family home for sale
+354,"34 E 62nd St, Manhattan, NY 10065",5 bds,11 ba,"9,200 sqft",- Townhouse for sale
+355,"2107 Wallace Ave APT 6D, Bronx, NY 10462",Studio,1 ba,600 sqft,- Foreclosure
+356,"183 Vanderbilt Ave #T, Brooklyn, NY 11205",2 bds,2 ba,"1,900 sqft",- Townhouse for sale
+357,"21-77 33rd St #5F, Astoria, NY 11105",4 bds,1 ba,"1,500 sqft",- Condo for sale
+358,"10 Arkansas Ave, Staten Island, NY 10308",4 bds,3 ba,"2,400 sqft",- House for sale
+359,"370 Union St APT 3B, Brooklyn, NY 11231",3 bds,1 ba,"1,025 sqft",- For sale by owner
+360,"264-26 Langston Ave #A, Glen Oaks, NY 11004",2 bds,1 ba,-- sqft,- Condo for sale
+361,"7 Ledyard Pl, Staten Island, NY 10305",3 bds,4 ba,"2,100 sqft",- House for sale
+362,"929 72nd St, Brooklyn, NY 11228",3 bds,3 ba,"2,248 sqft",- House for sale
+363,"2143 Clinton Ave, Bronx, NY 10457",4 bds,2 ba,"1,320 sqft",- House for sale
+364,"2911 D Ave, Brooklyn, NY 11226",-- bds,3 ba,"2,160 sqft",- Multi-family home for sale
+365,"156 E 97th St APT 18, New York, NY 10029",1 bd,1 ba,400 sqft,- Condo for sale
+366,"1062 Bergen St APT 2D, Brooklyn, NY 11216",2 bds,1 ba,433 sqft,- Condo for sale
+367,"26 Jamie Ln, Staten Island, NY 10312",4 bds,3 ba,"1,553 sqft",- Condo for sale
+368,"97-20 102nd St, Ozone Park, NY 11416",6 bds,2 ba,-- sqft,- Multi-family home for sale
+369,"3255 110th St, Flushing, NY 11369",4 bds,3 ba,"1,890 sqft",- Multi-family home for sale
+370,"454 Yetman Ave, Staten Island, NY 10307",5 bds,4 ba,"2,996 sqft",- Multi-family home for sale
+371,"400 Linden St PENTHOUSE E, Brooklyn, NY 11237",1 bd,1 ba,495 sqft,- Condo for sale
+372,"303 E 57th St APT 43G, New York, NY 10022",4 bds,5 ba,"3,300 sqft",- Condo for sale
+373,"115A Nelson Ave, Staten Island, NY 10308",3 bds,2 ba,"1,648 sqft",- House for sale
+374,"280 Washington Ave, Brooklyn, NY 11205",7 bds,8 ba,"10,000 sqft",- Townhouse for sale
+375,"85 Jay St #B, Brooklyn, NY 11201",4 bds,5 ba,"3,068 sqft",- Condo for sale
+376,"1828 Richmond Ter, Staten Island, NY 10310",0.3 acres lot,- Lot / Land for sale,empty,empty
+377,"2458 National Dr, Brooklyn, NY 11234",5 bds,5 ba,"14,000 sqft",- Off market: Zestimate
+378,"314 Harold St, Staten Island, NY 10314",3 bds,3 ba,"1,088 sqft",- House for sale
+379,"160 E 2nd St APT 4A, New York, NY 10009",1 bd,1 ba,550 sqft,- Condo for sale
+380,"170 W 76th St PENTHOUSE 3, New York, NY 10023",3 bds,4 ba,"1,700 sqft",- For sale by owner
+381,"309 E 105th St APT 3N, New York, NY 10029",2 bds,1 ba,726 sqft,- Condo for sale
+382,"1200 E 53rd St APT 5F, Brooklyn, NY 11234",2 bds,1 ba,850 sqft,- Condo for sale
+383,"296 Garfield Pl APT 2R, Brooklyn, NY 11215",1 bd,1 ba,"6,060 sqft",- Condo for sale
+384,"7-04 166th St #2A, Whitestone, NY 11357",2 bds,1 ba,"1,000 sqft",- Foreclosure
+385,"3289 Lafayette Ave, Bronx, NY 10465",2 bds,1 ba,675 sqft,- House for sale
+386,"108 W 114th St APT 3B, New York, NY 10026",1 bd,1 ba,381 sqft,- Condo for sale
+387,"6607 52nd Ave, Flushing, NY 11378",6 bds,2 ba,-- sqft,- Multi-family home for sale
+388,"168 Bradford St, Brooklyn, NY 11207",4 bds,2 ba,-- sqft,- House for sale
+389,"35 Alaska St, Staten Island, NY 10310",3 bds,3 ba,"1,008 sqft",- Townhouse for sale
+390,"235 Sunset Blvd, Bronx, NY 10473",3 bds,3 ba,-- sqft,- Foreclosure
+391,"116 Sherman Ave, Staten Island, NY 10301",4 bds,3 ba,"1,705 sqft",- House for sale
+392,"108 Bedford Ave, Staten Island, NY 10306",4 bds,3 ba,"1,304 sqft",- House for sale
+393,"71 Sullivan St, New York, NY 10012",3 bds,2 ba,950 sqft,- Condo for sale
+394,"12-15 Broadway #623, Astoria, NY 11106",1 bd,1 ba,664 sqft,- For sale by owner
+395,"6820 17th Ave, Brooklyn, NY 11204",5 bds,3 ba,"2,120 sqft",- House for sale
+396,"47-49 Charles St, New York, NY 10014",6 bds,8 ba,"8,775 sqft",- Townhouse for sale
+397,"333 E 43rd St APT 909, New York, NY 10017",1 bd,1 ba,"149,000 sqft",- Condo for sale
+398,"321 W 55th St APT 24, New York, NY 10019",2 bds,1 ba,-- sqft,- For sale by owner
+399,"303 E 57th St APT 30D, New York, NY 10022",2 bds,2 ba,"1,100 sqft",- Condo for sale
+400,"700 Brook Ave APT 3D, Bronx, NY 10455",2 bds,1 ba,872 sqft,- Condo for sale
+401,"7620 Bay Pkwy APT 6A, Brooklyn, NY 11214",3 bds,3 ba,"1,325 sqft",- Condo for sale
+402,"6495 Broadway APT 4L, Bronx, NY 10471",1 bd,1 ba,800 sqft,- Foreclosure
+403,"315 E 68th St APT 13J, New York, NY 10065",1 bd,1 ba,-- sqft,- For sale by owner
+404,"1091 Bushwick Ave APT 3D, Brooklyn, NY 11221",1 bd,1 ba,"12,480 sqft",- Condo for sale
+405,"240 E 47th St APT 32C, New York, NY 10017",2 bds,3 ba,"1,433 sqft",- Condo for sale
+406,"2265 Edsall Ave, Bronx, NY 10463",3 bds,3 ba,"2,200 sqft",- House for sale
+407,"2701 Goethals Rd N APT F20, Staten Island, NY 10303",2 bds,1 ba,840 sqft,- House for sale
+408,"123-22 146th St, Jamaica, NY 11436",2 bds,1 ba,-- sqft,- House for sale
+409,"1837 26th Ave, Long Island City, NY 11102",3 bds,3 ba,"2,376 sqft",- Multi-family home for sale
+410,"6606 Grand Central Pkwy APT 3A, Forest Hills, NY 11375",2 bds,1 ba,777 sqft,- Condo for sale
+411,"141 State St, Brooklyn, NY 11201",6 bds,5 ba,"7,600 sqft",- Townhouse for sale
+412,"626 Arthur Kill Rd, Staten Island, NY 10308",4 bds,2 ba,"1,736 sqft",- Multi-family home for sale
+413,"2187 Holland Ave APT 3L, Bronx, NY 10462",1 bd,1 ba,700 sqft,- Condo for sale
+414,"198 Shiel Ave, Staten Island, NY 10309",3 bds,3 ba,"1,400 sqft",- House for sale
+415,"875 5th Ave, New York, NY 10065",4 bds,6 ba,"224,000 sqft",- Condo for sale
+416,"11 Van Buren St, Staten Island, NY 10301",3 bds,2 ba,"2,441 sqft",- Multi-family home for sale
+417,"18-50 211th St APT 4A, Bayside, NY 11360",2 bds,1 ba,-- sqft,- Condo for sale
+418,"7311 69th Ave, Flushing, NY 11379",2 bds,2 ba,-- sqft,- House for sale
+419,"12347 Inwood St, Jamaica, NY 11436",4 bds,3 ba,"1,505 sqft",- House for sale
+420,"52-24 65th Pl #6K, Maspeth, NY 11378",2 bds,1 ba,-- sqft,- Condo for sale
+421,"210 Stanley Ave, Staten Island, NY 10301",4 bds,3 ba,"1,069 sqft",- House for sale
+422,"24 Leonard St, New York, NY 10013",6 bds,7 ba,"7,261 sqft",- Condo for sale
+423,"303 E 57th St APT 27L, New York, NY 10022",Studio,1 ba,-- sqft,- Condo for sale
+424,"13312 125th St, Ozone Park, NY 11420",3 bds,2 ba,-- sqft,- House for sale
+425,"678 Minnieford Ave, Bronx, NY 10464",2 bds,1 ba,970 sqft,- House for sale
+426,"36 Prince Ln, Staten Island, NY 10309",2 bds,3 ba,"1,675 sqft",- Condo for sale
+427,"400 Linden St PENTHOUSE F, Brooklyn, NY 11237",2 bds,2 ba,785 sqft,- Condo for sale
+428,"139-21 85th Dr #C1, Jamaica, NY 11435",2 bds,1 ba,-- sqft,- Condo for sale
+429,"69-51 178th St, Fresh Meadows, NY 11365",4 bds,2 ba,-- sqft,- House for sale
+430,"424 E 115th St #2A, New York, NY 10029",Studio,1 ba,200 sqft,- Condo for sale
+431,"20 Continental Ave APT 3H, Flushing, NY 11375",1 bd,1 ba,"1,001 sqft",- Condo for sale
+432,"115A Stack Dr FLOOR 2, Staten Island, NY 10312",2 bds,1 ba,"1,043 sqft",- Condo for sale
+433,"553 9th St, Brooklyn, NY 11215",6 bds,3 ba,"3,000 sqft",- For sale by owner
+434,"1758 E 53rd St, Brooklyn, NY 11234",5 bds,2 ba,"1,760 sqft",- Multi-family home for sale
+435,"1361 E 89th St, Brooklyn, NY 11236",3 bds,2 ba,"1,320 sqft",- House for sale
+436,"23 Waverly Pl APT 6S, New York, NY 10003",1 bd,1 ba,-- sqft,- Condo for sale
+437,"1615 Harding Park, Bronx, NY 10473",4 bds,2 ba,"1,452 sqft",- House for sale
+438,"248 Delafield Ave, Staten Island, NY 10310",3 bds,2 ba,"1,491 sqft",- House for sale
+439,"124 E 93rd St, New York, NY 10128",4 bds,6 ba,"3,620 sqft",- House for sale
+440,"35 E 68th St APT 1B, New York, NY 10065",3 bds,2 ba,"1,700 sqft",- Condo for sale
+441,"75 Etna St, Brooklyn, NY 11208",5 bds,4 ba,"3,180 sqft",- Multi-family home for sale
+442,"820 Thomas S Boyland St, Brooklyn, NY 11212",9 bds,6 ba,"3,300 sqft",- Townhouse for sale
+443,"1815 Pitman Ave, Bronx, NY 10466",3 bds,3 ba,"2,100 sqft",- New construction
+444,"237A Hart St, Brooklyn, NY 11206",4 bds,3 ba,-- sqft,- Townhouse for sale
+445,"932 Sinclair Ave, Staten Island, NY 10309",4 bds,2 ba,"2,100 sqft",- House for sale
+446,"97 S 8th St APT 22, Brooklyn, NY 11249",2 bds,1 ba,-- sqft,- Condo for sale
+447,"78-54 81st St, Ridgewood, NY 11385",3 bds,2 ba,-- sqft,- House for sale
+448,"186 Flagg Pl, Staten Island, NY 10304",5 bds,9 ba,"7,182 sqft",- House for sale
+449,"586 Quincy St, Brooklyn, NY 11221",5 bds,6 ba,"4,000 sqft",- Townhouse for sale
+450,"32 1st Pl, Brooklyn, NY 11231",6 bds,5 ba,"6,075 sqft",- House for sale
+451,"200 Hurlbert St, Staten Island, NY 10305",4 bds,3 ba,"1,873 sqft",- House for sale
+452,"400 Linden St #C, Brooklyn, NY 11237",1 bd,1 ba,495 sqft,- Condo for sale
+453,"139 W 131st St, New York, NY 10027",3 bds,4 ba,"3,816 sqft",- House for sale
+454,"118 Wooster St #4C5C, New York, NY 10012",3 bds,3 ba,"2,476 sqft",- Condo for sale
+455,"753 E 5th St APT 4A, New York, NY 10009",2 bds,2 ba,"1,100 sqft",- Condo for sale
+456,"193 Edwin St, Staten Island, NY 10312",5 bds,5 ba,"2,736 sqft",- Multi-family home for sale
+457,"131 Perry St APT 2A, New York, NY 10014",2 bds,2 ba,"1,555 sqft",- Condo for sale
+458,"144-45 180th St, Jamaica, NY 11434",5 bds,2 ba,"1,500 sqft",- House for sale
+459,"1901 Madison Ave APT 522, New York, NY 10035",3 bds,2 ba,"1,100 sqft",- Condo for sale
+460,"94-51 217th St, Queens Village, NY 11428",4 bds,3 ba,-- sqft,- New construction
+461,"3143 Schuyler Pl, Bronx, NY 10461",6 bds,3 ba,"2,507 sqft",- Multi-family home for sale
+462,"1177 E 82nd St, Brooklyn, NY 11236",3 bds,2 ba,"1,120 sqft",- House for sale
+463,"61-32 233rd St, Oakland Gardens, NY 11364",6 bds,6 ba,-- sqft,- Multi-family home for sale
+464,"1831 Madison Ave APT 5D, New York, NY 10035",2 bds,2 ba,900 sqft,- For sale by owner
+465,"1170 Ocean Pkwy PENTHOUSE I, Brooklyn, NY 11230",4 bds,2 ba,"1,892 sqft",- Condo for sale
+466,"26 E 73rd St, New York, NY 10021",5 bds,8 ba,"7,500 sqft",- House for sale
+467,"60 Dorothea Pl, Staten Island, NY 10306",3 bds,2 ba,"1,187 sqft",- House for sale
+468,"1 W End Ave APT 36A, New York, NY 10023",4 bds,5 ba,"3,055 sqft",- Condo for sale
+469,"66 Chestnut St, Brooklyn, NY 11208",4 bds,3 ba,"1,674 sqft",- House for sale
+470,"2146 76th St, Flushing, NY 11370",3 bds,3 ba,"1,560 sqft",- Multi-family home for sale
+471,"114 W 13th St, New York, NY 10011",4 bds,6 ba,"5,165 sqft",- House for sale
+472,"602 158th St, Flushing, NY 11357",7 bds,10 ba,"7,500 sqft",- House for sale
+473,"240 Riverside Blvd APT 12A, New York, NY 10069",5 bds,5 ba,"4,020 sqft",- Condo for sale
+474,"113 Jefferson Ave, Brooklyn, NY 11216",5 bds,6 ba,"3,670 sqft",- Multi-family home for sale
+475,"135-34 234th St, Rosedale, NY 11422",4 bds,2 ba,"1,344 sqft",- House for sale
+476,"1 John St APT PHD, Brooklyn, NY 11201",4 bds,4 ba,"2,539 sqft",- Condo for sale
+477,"66 Bartlett Ave, Staten Island, NY 10312",3 bds,1 ba,984 sqft,- House for sale
+478,"529 Saint Lawrence Ave, Bronx, NY 10473",4 bds,3 ba,"1,800 sqft",- House for sale
+479,"81 Milford St, Brooklyn, NY 11208",5 bds,2 ba,"1,200 sqft",- Multi-family home for sale
+480,"35 Hudson Yards #PH90, New York, NY 10001",5 bds,7 ba,"10,171 sqft",- Condo for sale
+481,"307 W 111th St APT 1W, New York, NY 10026",2 bds,1 ba,-- sqft,- Condo for sale
+482,"227-15 112th Rd, Queens Village, NY 11429",4 bds,2 ba,"1,304 sqft",- Foreclosure
+483,"155-12 115th Dr, Jamaica, NY 11434",3 bds,2 ba,-- sqft,- House for sale
+484,"255 Kensington Ave, Staten Island, NY 10305",4 bds,3 ba,"2,050 sqft",- Foreclosure
+485,"1172 Adee Ave #A, Bronx, NY 10469",3 bds,3 ba,-- sqft,- House for sale
+486,"415 Annadale Rd, Staten Island, NY 10312",4 bds,3 ba,"3,500 sqft",- House for sale
+487,"554 W 165th St, New York, NY 10032",9 bds,4 ba,"3,680 sqft",- Multi-family home for sale
+488,"62-47 82nd St, Middle Village, NY 11379",3 bds,2 ba,-- sqft,- House for sale
+489,"440 9th St APT 3, Brooklyn, NY 11215",1 bd,1 ba,"2,535 sqft",- Condo for sale
+490,"1200 E 53rd St APT 3M, Brooklyn, NY 11234",Studio,1 ba,-- sqft,- Condo for sale
+491,"2012 E 61st St, Brooklyn, NY 11234",3 bds,2 ba,"1,328 sqft",- Multi-family home for sale
+492,"230 Central Park S #14, New York, NY 10019",3 bds,6 ba,"3,900 sqft",- Apartment for sale
+493,"637A Westwood Ave, Staten Island, NY 10314",3 bds,2 ba,"1,224 sqft",- House for sale
+494,"123 Lamport Blvd, Staten Island, NY 10305",3 bds,3 ba,"1,230 sqft",- House for sale
+495,"33-47 14th St #12C, Astoria, NY 11106",3 bds,2 ba,-- sqft,- Condo for sale
+496,"45 W 70th St, New York, NY 10023",6 bds,6 ba,"8,550 sqft",- Townhouse for sale
+497,"1019 President St #2B, Brooklyn, NY 11225",1 bd,1 ba,835 sqft,- Condo for sale
+498,"565 Broome St #S16B, New York, NY 10013",3 bds,4 ba,"3,576 sqft",- Condo for sale
+499,"1957 Gildersleeve Ave, Bronx, NY 10473",3 bds,3 ba,"1,250 sqft",- House for sale
+500,"1562 W 6th St #1D, Brooklyn, NY 11204",2 bds,2 ba,916 sqft,- Condo for sale
+501,"412 Applegate Ct, Brooklyn, NY 11223",3 bds,2 ba,"1,200 sqft",- House for sale
+502,"959 E 94th St, Brooklyn, NY 11236",4 bds,3 ba,"1,216 sqft",- House for sale
+503,"35 Arkansas Ave, Staten Island, NY 10308",3 bds,3 ba,"1,500 sqft",- Multi-family home for sale
+504,"4320 Van Cortlandt Park E APT 5B, Bronx, NY 10470",Studio,1 ba,550 sqft,- Condo for sale
+505,"72-26 66th Rd, Middle Village, NY 11379",4 bds,4 ba,"3,500 sqft",- House for sale
+506,"189 E 7th St, New York, NY 10009",3 bds,5 ba,"3,895 sqft",- House for sale
+507,"2043 Homer Ave, Bronx, NY 10473",3 bds,2 ba,"1,540 sqft",- House for sale
+508,"131-15 218th St, Springfield Gardens, NY 11413",8 bds,3 ba,-- sqft,- House for sale
+509,"695 King Ave, Bronx, NY 10464",3 bds,2 ba,880 sqft,- House for sale
+510,"20 E 73rd St, New York, NY 10021",8 bds,10 ba,"11,371 sqft",- Townhouse for sale
+511,"133 Beach 120th St APT 1G, Rockaway Park, NY 11694",1 bd,1 ba,950 sqft,- Condo for sale
+512,"79 Bay Ter, Staten Island, NY 10306",6 bds,3 ba,"2,444 sqft",- Multi-family home for sale
+513,"2106 35th St APT 2B, Astoria, NY 11105",2 bds,1 ba,-- sqft,- Condo for sale
+514,"732 W End Ave APT 3, New York, NY 10025",3 bds,3 ba,"1,777 sqft",- For sale by owner
+515,"168-03 118th Rd, Jamaica, NY 11434",6 bds,4 ba,"1,500 sqft",- House for sale
+516,"32 Champlain Ave, Staten Island, NY 10306",3 bds,4 ba,"2,267 sqft",- House for sale
+517,"360 W 253rd St, Bronx, NY 10471",7 bds,8 ba,"15,000 sqft",- House for sale
+518,"162 E 92nd St, New York, NY 10128",5 bds,7 ba,"10,000 sqft",- House for sale
+519,"52 E 66th St, New York, NY 10065",6 bds,9 ba,"8,400 sqft",- Townhouse for sale
+520,"1015 Summit Ave APT 2A, Bronx, NY 10452",Studio,1 ba,"36,900 sqft",- Condo for sale
+521,"20 Wheeler Ave, Staten Island, NY 10314",4 bds,2 ba,"1,421 sqft",- New construction
+522,"163 Lenox Ave #5A, New York, NY 10026",3 bds,1 ba,975 sqft,- Condo for sale
+523,"347 E 59th St, Brooklyn, NY 11203",3 bds,3 ba,"1,400 sqft",- House for sale
+524,"450 Clinton St APT 1B, Brooklyn, NY 11231",2 bds,2 ba,"1,100 sqft",- Condo for sale
+525,"3187 Parsifal Pl, Bronx, NY 10465",3 bds,1 ba,"1,280 sqft",- House for sale
+526,"26-14 30th St, Astoria, NY 11102",3 bds,3 ba,-- sqft,- House for sale
+527,"1691 Monroe Ave, Bronx, NY 10457",7 bds,7 ba,"2,540 sqft",- Multi-family home for sale
+528,"929 Vincent Ave, Bronx, NY 10465",3 bds,3 ba,"1,836 sqft",- House for sale
+529,"2109 N Railroad Ave, Staten Island, NY 10306",3 bds,3 ba,"1,144 sqft",- House for sale
+530,"208 E 62nd St, New York, NY 10065",4 bds,5 ba,"5,000 sqft",- Townhouse for sale
+531,"279 Central Park W, New York, NY 10024",7 bds,8 ba,"6,713 sqft",- Condo for sale
+532,"87-31 Clover Pl, Hollis, NY 11423",4 bds,5 ba,"5,016 sqft",- New construction
+533,"232 W 10th St, New York, NY 10014",3 bds,3 ba,"2,684 sqft",- Townhouse for sale
+534,"224 Lefferts Ave APT 1, Brooklyn, NY 11225",1 bd,1 ba,650 sqft,- Condo for sale
+535,"36 Daffodil Ct, Staten Island, NY 10312",3 bds,2 ba,"1,339 sqft",- Condo for sale
+536,"21-13 24th Rd #1HOME, Astoria, NY 11102",4 bds,3 ba,"1,600 sqft",- Multi-family home for sale
+537,"2029 29th St, Long Island City, NY 11105",4 bds,2 ba,"2,050 sqft",- House for sale
+538,"4342 Edson Ave, Bronx, NY 10466",4 bds,2 ba,"2,862 sqft",- Foreclosure
+539,"300 W 145th St APT 4Q, New York, NY 10039",3 bds,2 ba,"1,118 sqft",- Apartment for sale
+540,"162 E 2nd St APT C, New York, NY 10009",1 bd,1 ba,-- sqft,- Condo for sale
+541,"2020 E 61st St, Brooklyn, NY 11234",3 bds,1 ba,"1,440 sqft",- House for sale
+542,"2190 Brigham St APT 1C, Brooklyn, NY 11229",3 bds,1 ba,"1,200 sqft",- Condo for sale
+543,"100 W 57th St APT 12Q, New York, NY 10019",Studio,1 ba,450 sqft,- Condo for sale
+544,"60-22 59th Dr, Maspeth, NY 11378",3 bds,3 ba,-- sqft,- House for sale
+545,"2869 Schley Ave, Bronx, NY 10465",3 bds,2 ba,"1,188 sqft",- House for sale
+546,"11 Elias Pl, Staten Island, NY 10314",6 bds,3 ba,"2,366 sqft",- Multi-family home for sale
+547,"6209 Amboy Rd, Staten Island, NY 10309",4 bds,2 ba,"2,658 sqft",- House for sale
+548,"113th St, Forest Hills, NY 11375",2 bds,1 ba,"1,150 sqft",- Coming soon
+549,"100 Remsen St APT 2J, Brooklyn, NY 11201",2 bds,1 ba,720 sqft,- Condo for sale
+550,"803 Quincy St #3F, Brooklyn, NY 11221",2 bds,1 ba,751 sqft,- Condo for sale
+551,"123-11 Montauk St, Springfield Gardens, NY 11413",4 bds,3 ba,-- sqft,- House for sale
+552,"3510 Huguenot Ave, Bronx, NY 10475",4 bds,2 ba,"2,410 sqft",- House for sale
+553,"80-03 156th Ave FLOOR 142-1, Howard Beach, NY 11414",3 bds,1 ba,-- sqft,- Condo for sale
+554,"22-13 37th St #3FAM, Astoria, NY 11105",6 bds,3 ba,"3,276 sqft",- Multi-family home for sale
+555,"93 Sanford Pl, Staten Island, NY 10314",2 bds,2 ba,"1,260 sqft",- House for sale
+556,"32 Boulevard, Malba, NY 11357",6 bds,6 ba,"7,218 sqft",- New construction
+557,"171 N Burgher Ave, Staten Island, NY 10310",4 bds,3 ba,"1,600 sqft",- House for sale
+558,"49 Chambers St #14EF, New York, NY 10007",4 bds,4 ba,"4,000 sqft",- Condo for sale
+559,"49 Chambers St #14EF, New York, NY 10007",4 bds,4 ba,"4,000 sqft",- Condo for sale
+560,"2580 Ocean Pkwy APT 6G, Brooklyn, NY 11235",1 bd,1 ba,950 sqft,- Condo for sale
+561,"1715 71st St, Brooklyn, NY 11204",3 bds,2 ba,"1,769 sqft",- Multi-family home for sale
+562,"1836 Troy Ave, Brooklyn, NY 11234",3 bds,3 ba,"1,500 sqft",- Multi-family home for sale
+563,"99-06 58th Ave #4B, Corona, NY 11368",2 bds,1 ba,-- sqft,- Condo for sale
+564,"226 E 27th St APT 3B, New York, NY 10016",1 bd,1 ba,600 sqft,- Condo for sale
+565,"658 Travis Ave, Staten Island, NY 10314",3 bds,2 ba,"2,390 sqft",- Multi-family home for sale
+566,"12 Turf Ct, Staten Island, NY 10314",4 bds,3 ba,"1,680 sqft",- House for sale
+567,"2072 Gerritsen Ave, Brooklyn, NY 11229",3 bds,3 ba,"2,290 sqft",- House for sale
+568,"167-05 12th Ave #4B, Whitestone, NY 11357",3 bds,1 ba,-- sqft,- Condo for sale
+569,"155-01 90th Ave #3N, Jamaica, NY 11432",1 bd,1 ba,876 sqft,- Condo for sale
+570,"36 Rhett Ave, Staten Island, NY 10308",3 bds,3 ba,"1,300 sqft",- House for sale
+571,"40 Wakefield Rd, Staten Island, NY 10312",5 bds,7 ba,"11,400 sqft",- House for sale
+572,"1732 Forest Hill Rd, Staten Island, NY 10314",3 bds,2 ba,"1,166 sqft",- New construction
+573,"6911 Yellowstone Blvd APT A44, Forest Hills, NY 11375",2 bds,1 ba,-- sqft,- Condo for sale
+574,"100 W 57th St APT 14F, New York, NY 10019",Studio,1 ba,650 sqft,- Condo for sale
+575,"3177 Valhalla Dr, Bronx, NY 10465",3 bds,3 ba,"1,800 sqft",- House for sale
+576,"1817 26th Ave, Long Island City, NY 11102",3 bds,2 ba,"1,344 sqft",- House for sale
+577,"871 Dumont Ave, Brooklyn, NY 11207",5 bds,3 ba,"2,090 sqft",- Multi-family home for sale
+578,"1675 E 46th St, Brooklyn, NY 11234",3 bds,2 ba,"1,380 sqft",- House for sale
+579,"512 W 156th St APT 34, New York, NY 10032",3 bds,1 ba,-- sqft,- Condo for sale
+580,"72-35 112th St APT 4A, Forest Hills, NY 11375",Studio,1 ba,550 sqft,- Condo for sale
+581,"14 Ascan Ave, Forest Hills, NY 11375",5 bds,5 ba,"3,600 sqft",- House for sale
+582,"19 Purdue St, Staten Island, NY 10314",4 bds,3 ba,"1,992 sqft",- House for sale
+583,"2165 Brigham St #3B, Brooklyn, NY 11229",2 bds,1 ba,950 sqft,- Condo for sale
+584,"3828 Laconia Ave, Bronx, NY 10469",3 bds,2 ba,"1,690 sqft",- House for sale
+585,"432 Park Ave APT 80A, New York, NY 10022",3 bds,3 ba,"2,633 sqft",- Condo for sale
+586,"3166 Philip Ave, Bronx, NY 10465",6 bds,5 ba,"3,600 sqft",- Multi-family home for sale
+587,"09-05 162nd St APT 5B, Whitestone, NY 11357",3 bds,1 ba,-- sqft,- Condo for sale
+588,"31 Essex Dr, Staten Island, NY 10314",5 bds,4 ba,"2,400 sqft",- Multi-family home for sale
+589,"144-60 Gravett Rd APT 1J, Flushing, NY 11367",1 bd,1 ba,750 sqft,- Condo for sale
+590,"220 E 65th St APT 22C, New York, NY 10065",2 bds,2 ba,"1,326 sqft",- For sale by owner
+591,"120 E 38th St, New York, NY 10016",3 bds,3 ba,"3,389 sqft",- Townhouse for sale
+592,"15 Prospect Park W, Brooklyn, NY 11215",4 bds,4 ba,"2,680 sqft",- Townhouse for sale
+593,"1355 Richmond Rd, Staten Island, NY 10304",4 bds,3 ba,"1,650 sqft",- House for sale
+594,"253 Clarkson Ave, Brooklyn, NY 11226",6 bds,3 ba,"2,000 sqft",- Multi-family home for sale
+595,"41-18 27th St #1A, Long Island City, NY 11101",2 bds,2 ba,930 sqft,- Condo for sale
+596,"508 E 78th St APT 1M, New York, NY 10075",1 bd,1 ba,350 sqft,- For sale by owner
+597,"1779 Union St, Brooklyn, NY 11213",5 bds,5 ba,"3,300 sqft",- Townhouse for sale
+598,"118-80 Riverton St, Saint Albans, NY 11412",6 bds,4 ba,-- sqft,- New construction
+599,"303 E 57th St #37DE, New York, NY 10022",4 bds,4 ba,-- sqft,- Condo for sale
+600,"1420 Pinson St, Far Rockaway, NY 11691",11 bds,4 ba,"2,925 sqft",- House for sale
+601,"301 E 63rd St APT 5H, New York, NY 10065",Studio,1 ba,550 sqft,- Condo for sale
+602,"1259 Grant Ave APT 5H, Bronx, NY 10456",3 bds,2 ba,"1,100 sqft",- Condo for sale
+603,"420 E 51st St APT 3G, New York, NY 10022",1 bd,1 ba,"1,000 sqft",- Condo for sale
+604,"111-69 158th St, Jamaica, NY 11433",3 bds,2 ba,"1,488 sqft",- Foreclosure
+605,"140-19 172nd St, Jamaica, NY 11434",5 bds,2 ba,"1,600 sqft",- House for sale
+606,"56 Leonard St PH 58, New York, NY 10013",5 bds,6 ba,"5,489 sqft",- Condo for sale
+607,"1452 E 53rd St, Brooklyn, NY 11234",3 bds,2 ba,"1,024 sqft",- House for sale
+608,"40 Winding Woods Loop, Staten Island, NY 10307",3 bds,2 ba,"1,060 sqft",- Condo for sale
+609,"420 E 51st St APT 5C, New York, NY 10022",2 bds,2 ba,"1,250 sqft",- Condo for sale
+610,"122-19 Nellis Street, Springfield Gardens, NY 11413",4 bds,3 ba,-- sqft,- House for sale
+611,"200 E 24th St #508/509, New York, NY 10010",3 bds,2 ba,"1,450 sqft",- Condo for sale
+612,"46 Sandalwood Dr, Staten Island, NY 10308",3 bds,2 ba,"1,440 sqft",- Townhouse for sale
+613,"5607 196th St, Flushing, NY 11365",3 bds,1 ba,"1,400 sqft",- Foreclosure
+614,"164 Bedford Ave, Staten Island, NY 10306",3 bds,2 ba,"1,780 sqft",- House for sale
+615,"25-40 Shore Blvd #1D, Astoria, NY 11102",2 bds,2 ba,887 sqft,- Condo for sale
+616,"446 E 118th St, New York, NY 10035",8 bds,5 ba,"4,000 sqft",- Multi-family home for sale
+617,"165 Taaffe Pl #4, Brooklyn, NY 11205",2 bds,1 ba,846 sqft,- Condo for sale
+618,"65 W 87th St #4, New York, NY 10024",4 bds,2 ba,-- sqft,- Condo for sale
+619,"27 E 65th St APT 12E, New York, NY 10065",3 bds,2 ba,"1,850 sqft",- Condo for sale
+620,"5440 Little Neck Pkwy APT 1L, Little Neck, NY 11362",Studio,1 ba,-- sqft,- Condo for sale
+621,"40 Kelly Blvd, Staten Island, NY 10314",3 bds,3 ba,"2,544 sqft",- House for sale
+622,"132 Prospect Pl APT 4R, Brooklyn, NY 11217",2 bds,1 ba,-- sqft,- Condo for sale
+623,"13 Jay St, New York, NY 10013",4 bds,6 ba,-- sqft,- Condo for sale
+624,"108-21 154th St, Jamaica, NY 11433",4 bds,3 ba,-- sqft,- House for sale
+625,"233 Lincoln Rd, Brooklyn, NY 11225",3 bds,3 ba,"2,874 sqft",- Multi-family home for sale
+626,"206 E 124th St APT 5A, New York, NY 10035",2 bds,2 ba,750 sqft,- Condo for sale
+627,"530 Ellsworth Ave APT F3, Bronx, NY 10465",2 bds,2 ba,"1,150 sqft",- Condo for sale
+628,"81-03 91st Ave, Woodhaven, NY 11421",3 bds,3 ba,"1,344 sqft",- House for sale
+629,"99 Clinton St APT 9, Brooklyn, NY 11201",3 bds,2 ba,"2,550 sqft",- Condo for sale
+630,"482 Winchester Ave, Staten Island, NY 10312",3 bds,2 ba,"1,440 sqft",- House for sale
+631,"142-15 13th Ave, Whitestone, NY 11357",6 bds,6 ba,"7,000 sqft",- House for sale
+632,"230 E 79th St APT 3C, New York, NY 10075",2 bds,2 ba,-- sqft,- Condo for sale
+633,"301 E 63rd St APT 14J, New York, NY 10065",2 bds,1 ba,950 sqft,- Condo for sale
+634,"350 E 30th St APT 3S, New York, NY 10016",3 bds,1 ba,960 sqft,- Condo for sale
+635,"1173 E 38th St, Brooklyn, NY 11210",3 bds,3 ba,"1,300 sqft",- Foreclosure
+636,"81 Hylan Blvd, Staten Island, NY 10305",2 bds,1 ba,"1,313 sqft",- House for sale
+637,"5816 220th St, Bayside Hills, NY 11364",4 bds,2 ba,"1,897 sqft",- House for sale
+638,"53 E 80th St, New York, NY 10075",7 bds,9 ba,"10,800 sqft",- Townhouse for sale
+639,"25 Columbus Cir #75CE, New York, NY 10019",5 bds,7 ba,"4,540 sqft",- Condo for sale
+640,"11 E 93rd St, New York, NY 10128",7 bds,10 ba,"7,714 sqft",- House for sale
+641,"2738 E 19th St #D3-1, Brooklyn, NY 11235",1 bd,1 ba,-- sqft,- Condo for sale
+642,"212 Columbia Hts, Brooklyn, NY 11201",6 bds,5 ba,"8,250 sqft",- Townhouse for sale
+643,"400 E 59th St #E12, New York, NY 10022",2 bds,2 ba,-- sqft,- Condo for sale
+644,"33-47 91st St APT 5F, Jackson Heights, NY 11372",3 bds,2 ba,-- sqft,- Condo for sale
+645,"264 Rhine Ave, Staten Island, NY 10304",3 bds,3 ba,"1,409 sqft",- House for sale
+646,"3135 Johnson Ave APT 5E, Bronx, NY 10463",3 bds,2 ba,"1,300 sqft",- Condo for sale
+647,"210 Mcveigh Ave, Staten Island, NY 10314",4 bds,3 ba,"1,690 sqft",- House for sale
+648,"186-15 Foch Blvd, Saint Albans, NY 11412",3 bds,2 ba,-- sqft,- House for sale
+649,"45-17 20th Rd, Astoria, NY 11105",3 bds,4 ba,"3,360 sqft",- House for sale
+650,"303 E 57th St APT 31G, New York, NY 10022",3 bds,4 ba,-- sqft,- Condo for sale
+651,"4461 Park Ave, Bronx, NY 10457",5 bds,3 ba,"2,000 sqft",- Multi-family home for sale
+652,"18-55 21st Rd, Astoria, NY 11105",5 bds,3 ba,"3,120 sqft",- Multi-family home for sale
+653,"197 Sharrott Ave, Staten Island, NY 10309",3 bds,2 ba,"1,880 sqft",- House for sale
+654,"1167 74th St, Brooklyn, NY 11228",3 bds,2 ba,"1,980 sqft",- Multi-family home for sale
+655,"119-11 197th St, Saint Albans, NY 11412",4 bds,2 ba,"1,664 sqft",- House for sale
+656,"17109 144th Ave, Jamaica, NY 11434",3 bds,2 ba,"1,531 sqft",- House for sale
+657,"941 Jerome Ave APT 10F, Bronx, NY 10452",3 bds,2 ba,"1,230 sqft",- Condo for sale
+658,"2711 Avenue X APT 5F, Brooklyn, NY 11235",2 bds,1 ba,"1,000 sqft",- Condo for sale
+659,"128 Central Park S #11C, New York, NY 10019",2 bds,2 ba,912 sqft,- For sale by owner
+660,"176 W 86th St APT 6E, New York, NY 10024",1 bd,1 ba,485 sqft,- Condo for sale
+661,"96 Woodpoint Rd APT 3A, Brooklyn, NY 11211",2 bds,2 ba,"1,050 sqft",- Condo for sale
+662,"115 Mariners Ln, Staten Island, NY 10303",2 bds,2 ba,"1,396 sqft",- House for sale
+663,"1131 Brooklyn Ave, Brooklyn, NY 11203",4 bds,2 ba,-- sqft,- House for sale
+664,"60-11 Broadway #4R, Woodside, NY 11377",3 bds,2 ba,"1,622 sqft",- Condo for sale
+665,"94 Thompson St #T, New York, NY 10012",3 bds,4 ba,"3,500 sqft",- Condo for sale
+666,"93-19 215th Pl, Queens Village, NY 11428",4 bds,2 ba,"1,560 sqft",- House for sale
+667,"1776 Pitman Ave, Bronx, NY 10466",3 bds,2 ba,"1,530 sqft",- Multi-family home for sale
+668,"27 Pleasant Valley Ave, Staten Island, NY 10304",5 bds,5 ba,"1,770 sqft",- House for sale
+669,"40 Fort Hill Cir, Staten Island, NY 10301",3 bds,3 ba,"1,196 sqft",- House for sale
+670,"21007 34th Rd, Flushing, NY 11361",4 bds,2 ba,"1,737 sqft",- House for sale
+671,"4742 Carpenter Ave, Bronx, NY 10470",2 bds,1 ba,"1,100 sqft",- House for sale
+672,"59-37 69th Pl, Maspeth, NY 11378",3 bds,2 ba,"1,680 sqft",- House for sale
+673,"56 W 119th St APT 2C, New York, NY 10026",1 bd,1 ba,-- sqft,- Condo for sale
+674,"243-25 Mayda St, Rosedale, NY 11422",5 bds,4 ba,"1,624 sqft",- Multi-family home for sale
+675,"425 Park Ave S APT 19D, New York, NY 10016",2 bds,2 ba,"1,000 sqft",- Condo for sale
+676,"1551 Park Pl APT 1D, Brooklyn, NY 11213",2 bds,1 ba,"1,000 sqft",- Condo for sale
+677,"126 Winham Ave, Staten Island, NY 10306",3 bds,3 ba,"1,200 sqft",- House for sale
+678,"195 Swinton Ave, Bronx, NY 10465",4 bds,3 ba,"2,838 sqft",- Multi-family home for sale
+679,"8080 Cypress Ave, Glendale, NY 11385",3 bds,1 ba,-- sqft,- House for sale
+680,"6113 23rd Ave APT 4A, Brooklyn, NY 11204",2 bds,2 ba,"1,026 sqft",- Condo for sale
+681,"165 E 94th St, New York, NY 10128",5 bds,6 ba,"5,100 sqft",- House for sale
+682,"109-31 197th St, Saint Albans, NY 11412",5 bds,2 ba,-- sqft,- Foreclosure
+683,"4 W 21st St APT 7D, New York, NY 10010",2 bds,3 ba,"1,518 sqft",- Apartment for sale
+684,"135 W 52nd St PH 5, New York, NY 10019",5 bds,5 ba,"4,373 sqft",- Condo for sale
+685,"142 E 49th St APT 2B, New York, NY 10017",1 bd,1 ba,-- sqft,- Apartment for sale
+686,"29-27 163rd St, Flushing, NY 11358",3 bds,1 ba,"1,710 sqft",- House for sale
+687,"70-12 71st Pl, Ridgewood, NY 11385",3 bds,3 ba,-- sqft,- Multi-family home for sale
+688,"18720 Peck Ave, Fresh Meadows, NY 11365",3 bds,3 ba,"1,521 sqft",- House for sale
+689,"227-23 88th Ave, Queens Village, NY 11427",2 bds,1 ba,-- sqft,- Condo for sale
+690,"8808 104th St, Jamaica, NY 11418",3 bds,3 ba,-- sqft,- House for sale
+691,"150-15 Village Rd #46C, Jamaica, NY 11435",3 bds,2 ba,"1,200 sqft",- Condo for sale
+692,"1638 71st St, Brooklyn, NY 11204",3 bds,1 ba,"1,020 sqft",- House for sale
+693,"15 Carolyn Ct, Staten Island, NY 10309",6 bds,5 ba,"4,680 sqft",- House for sale
+694,"68 Garden St #B3C, Brooklyn, NY 11206",2 bds,2 ba,"1,060 sqft",- Condo for sale
+695,"42-39 194th St, Flushing, NY 11358",3 bds,2 ba,"1,600 sqft",- House for sale
+696,"45 Tudor City Pl APT 416, New York, NY 10017",Studio,1 ba,"215,715 sqft",- Condo for sale
+697,"338 Clinton Ave APT 4, Brooklyn, NY 11205",2 bds,2 ba,875 sqft,- Condo for sale
+698,"626 E 14th St APT 16, New York, NY 10009",1 bd,1 ba,-- sqft,- Condo for sale
+699,"64-81 83rd St, Middle Village, NY 11379",3 bds,2 ba,-- sqft,- House for sale
+700,"10 E 76th St, New York, NY 10021",7 bds,14 ba,"12,380 sqft",- Multi-family home for sale
+701,"93-18 Francis Lewis Blvd, Queens Village, NY 11428",3 bds,3 ba,-- sqft,- House for sale
+702,"210 W 256th St, Bronx, NY 10471",3 bds,2 ba,"1,555 sqft",- House for sale
+703,"138 E 36th St APT 1B, New York, NY 10016",1 bd,1 ba,570 sqft,- Condo for sale
+704,"157 W 57th St APT 46C, New York, NY 10019",4 bds,5 ba,"3,466 sqft",- Condo for sale
+705,"216-12 104th Ave, Queens Village, NY 11429",4 bds,3 ba,-- sqft,- House for sale
+706,"11224 Northern Blvd E #3A, Corona, NY 11368",1 bd,1 ba,-- sqft,- Condo for sale
+707,"796 Richmond Rd, Staten Island, NY 10304",3 bds,3 ba,"1,849 sqft",- Condo for sale
+708,"73-20 67th Dr, Middle Village, NY 11379",5 bds,3 ba,"1,800 sqft",- Multi-family home for sale
+709,"49 Greene St #LOFT3, New York, NY 10013",3 bds,4 ba,"3,834 sqft",- Condo for sale
+710,"12717 9th Ave, Flushing, NY 11356",3 bds,2 ba,-- sqft,- House for sale
+711,"44 72nd St, Brooklyn, NY 11209",2 bds,3 ba,"1,160 sqft",- House for sale
+712,"3535 Kings College Pl #11, Bronx, NY 10467",2 bds,1 ba,850 sqft,- Condo for sale
+713,"99-25 60th Ave, Corona, NY 11368",1 bd,1 ba,-- sqft,- Condo for sale
+714,"120 E 78th St, New York, NY 10075",8 bds,9 ba,"11,000 sqft",- Townhouse for sale
+715,"45 E 22nd St #60, New York, NY 10010",4 bds,5 ba,"4,664 sqft",- Condo for sale
+716,"2565 Flatbush Ave #C-1, Brooklyn, NY 11234",2 bds,2 ba,"1,200 sqft",- House for sale
+717,"3316 Mickle Ave, Bronx, NY 10469",4 bds,2 ba,-- sqft,- Foreclosure
+718,"173 E 64th St, New York, NY 10065",4 bds,5 ba,"3,500 sqft",- House for sale
+719,"111 W 57th St #68, New York, NY 10019",3 bds,4 ba,"3,873 sqft",- Condo for sale
+720,"625 E 11th St APT A3, New York, NY 10009",2 bds,2 ba,"1,031 sqft",- Condo for sale
+721,"2156 Cruger Ave APT 4L, Bronx, NY 10462",1 bd,1 ba,700 sqft,- Condo for sale
+722,"1010 Park Ave #PENTHOUSE, New York, NY 10028",4 bds,6 ba,"6,745 sqft",- Condo for sale
+723,"140-39 34th Ave #6L, Flushing, NY 11354",1 bd,1 ba,700 sqft,- Condo for sale
+724,"231 68th St APT 102, Brooklyn, NY 11220",2 bds,2 ba,"1,127 sqft",- Apartment for sale
+725,"1238 Prospect Ave #3B, Bronx, NY 10459",3 bds,2 ba,"1,068 sqft",- Condo for sale
+726,"217 Berkeley Pl, Brooklyn, NY 11217",6 bds,5 ba,"5,415 sqft",- House for sale
+727,"68-12 Burns St #C2, Forest Hills, NY 11375",2 bds,1 ba,-- sqft,- Condo for sale
+728,"425 E 9th St APT 1A, New York, NY 10009",2 bds,2 ba,"1,400 sqft",- Condo for sale
+729,"72 Richardson St #10, Brooklyn, NY 11211",2 bds,1 ba,-- sqft,- Condo for sale
+730,"112 Audley St, Jamaica, NY 11415",6 bds,4 ba,"2,496 sqft",- House for sale
+731,"84-70 129th St #2V, Kew Gardens, NY 11415",2 bds,1 ba,750 sqft,- Condo for sale
+732,"10465 Springfield Blvd, Jamaica, NY 11429",5 bds,2 ba,"1,842 sqft",- Foreclosure
+733,"100 W 57th St APT 12K, New York, NY 10019",1 bd,1 ba,950 sqft,- Condo for sale
+734,"31 S Elliott Pl, Brooklyn, NY 11217",4 bds,3 ba,"3,196 sqft",- Multi-family home for sale
+735,"31-85 Crescent St APT 411, Astoria, NY 11106",2 bds,1 ba,800 sqft,- Condo for sale
+736,"449 Home Ave, Staten Island, NY 10305",5 bds,3 ba,"1,908 sqft",- Multi-family home for sale
+737,"2525 W 2nd St APT 1B, Brooklyn, NY 11223",2 bds,1 ba,950 sqft,- Condo for sale
+738,"94-18 222nd St, Queens Village, NY 11428",3 bds,2 ba,-- sqft,- House for sale
+739,"5425 Valles Ave APT 5F, Bronx, NY 10471",2 bds,1 ba,750 sqft,- Condo for sale
+740,"137 W 87th St, New York, NY 10024",5 bds,3 ba,"3,560 sqft",- House for sale
+741,"116-09 167th St, Jamaica, NY 11434",3 bds,2 ba,"1,224 sqft",- House for sale
+742,"26 Fingerboard Rd, Staten Island, NY 10305",4 bds,4 ba,"1,464 sqft",- House for sale
+743,"173 Hicks St #5AB, Brooklyn, NY 11201",2 bds,2 ba,"1,200 sqft",- Condo for sale
+744,"418 E 59th St #B, New York, NY 10022",3 bds,3 ba,"2,100 sqft",- Apartment for sale
+745,"125-05 84th Ave #6E, Kew Gardens, NY 11415",1 bd,1 ba,725 sqft,- Condo for sale
+746,"303 E 57th St APT 9G, New York, NY 10022",2 bds,2 ba,-- sqft,- Condo for sale
+747,"1912 61st St, Brooklyn, NY 11204",3 bds,2 ba,"1,440 sqft",- House for sale
+748,"2311 E 14th St, Brooklyn, NY 11229",4 bds,2 ba,"1,659 sqft",- House for sale
+749,"330 W 87th St, New York, NY 10024",7 bds,7 ba,"5,088 sqft",- Townhouse for sale
+750,"190 E 72nd St APT 29C, New York, NY 10021",3 bds,3 ba,-- sqft,- Condo for sale
+751,"144-67 Charter Rd #13C, Jamaica, NY 11435",3 bds,2 ba,"1,400 sqft",- Condo for sale
+752,"0 Ridge Blvd, Brooklyn, NY 11220",43.4 acres lot,- Lot / Land for sale,empty,empty
+753,"24339 144th Ave, Jamaica, NY 11422",5 bds,3 ba,"1,456 sqft",- House for sale
+754,"104-14 118th St, South Richmond Hill, NY 11419",4 bds,3 ba,-- sqft,- Multi-family home for sale
+755,"1931 Gerritsen Ave, Brooklyn, NY 11229",3 bds,2 ba,"1,248 sqft",- House for sale
+756,"90-01 153rd Ave #2, Howard Beach, NY 11414",3 bds,1 ba,-- sqft,- Condo for sale
+757,"235-14 148th Rd, Rosedale, NY 11422",3 bds,3 ba,"1,350 sqft",- House for sale
+758,"530 E 84th St APT 4J, New York, NY 10028",4 bds,4 ba,"2,000 sqft",- Condo for sale
+759,"904 E 37th St, Brooklyn, NY 11210",3 bds,2 ba,"1,374 sqft",- House for sale
+760,"16334 87th St, Howard Beach, NY 11414",4 bds,3 ba,"2,140 sqft",- House for sale
+761,"233 E 5th St, Brooklyn, NY 11218",3 bds,2 ba,"2,261 sqft",- Multi-family home for sale
+762,"168-11 116th Ave, Jamaica, NY 11434",6 bds,2 ba,-- sqft,- House for sale
+763,"9014 51st Ave #4A, Flushing, NY 11373",3 bds,3 ba,944 sqft,- Condo for sale
+764,"269 W 87th St #4B, New York, NY 10024",3 bds,4 ba,"2,193 sqft",- Apartment for sale
+765,"17 E 17th St, New York, NY 10003",5 bds,5 ba,"3,971 sqft",- Condo for sale
+766,"79-26 212th St, Oakland Gardens, NY 11364",3 bds,2 ba,"1,701 sqft",- House for sale
+767,"26-11 212th St, Bayside, NY 11360",5 bds,4 ba,"1,986 sqft",- New construction
+768,"526 W 158th St #55, New York, NY 10032",2 bds,1 ba,600 sqft,- Condo for sale
+769,"3747 Amboy Rd APT 9A, Staten Island, NY 10308",2 bds,1 ba,750 sqft,- Apartment for sale
+770,"5 Tudor City Pl APT 629, New York, NY 10017",Studio,1 ba,-- sqft,- Condo for sale
+771,"927 E 32nd St, Brooklyn, NY 11210",3 bds,2 ba,"1,280 sqft",- House for sale
+772,"229 W 144th St APT 53, New York, NY 10030",2 bds,1 ba,800 sqft,- Condo for sale
+773,"10 E 73rd St, New York, NY 10021",6 bds,9 ba,"8,800 sqft",- Townhouse for sale
+774,"8101 11th Ave, Brooklyn, NY 11228",5 bds,3 ba,"2,480 sqft",- Multi-family home for sale
+775,"1849 Lurting Ave, Bronx, NY 10461",3 bds,1 ba,"1,430 sqft",- House for sale
+776,"83-00 Talbot St #BB1, Kew Gardens, NY 11415",3 bds,2 ba,-- sqft,- Condo for sale
+777,"242-47 61st Ave #2, Little Neck, NY 11362",2 bds,1 ba,869 sqft,- Condo for sale
+778,"137 Grimsby St, Staten Island, NY 10306",3 bds,3 ba,"1,400 sqft",- Foreclosure
+779,"112-17 207th St, Queens Village, NY 11429",4 bds,3 ba,"1,672 sqft",- House for sale
+780,"2026 Batchelder St, Brooklyn, NY 11229",3 bds,3 ba,"2,235 sqft",- House for sale
+781,"160-15 Powells Cove Blvd #B303, Whitestone, NY 11357",1 bd,1 ba,-- sqft,- Condo for sale
+782,"179 Monroe St APT 4A, Brooklyn, NY 11216",2 bds,2 ba,"1,200 sqft",- Condo for sale
+783,"35 E Franklin Ln, Staten Island, NY 10306",2 bds,2 ba,"1,152 sqft",- House for sale
+784,"45 Tudor City Pl APT 318, New York, NY 10017",2 bds,2 ba,"215,715 sqft",- Condo for sale
+785,"2170 Brigham St APT 4A, Brooklyn, NY 11229",3 bds,1 ba,"1,000 sqft",- Condo for sale
+786,"121-31 235th St, Rosedale, NY 11422",4 bds,3 ba,-- sqft,- House for sale
+787,"1395 E 15th St, Brooklyn, NY 11230",4 bds,3 ba,"1,300 sqft",- House for sale
+788,"66-14 79th Pl, Middle Village, NY 11379",3 bds,2 ba,"2,000 sqft",- House for sale
+789,"23-17 126th St, College Pt, NY 11356",3 bds,2 ba,"1,886 sqft",- House for sale
+790,"6701 Alderton St, Flushing, NY 11374",3 bds,2 ba,"1,701 sqft",- House for sale
+791,"229-07 88th Ave, Queens Village, NY 11427",4 bds,3 ba,"1,480 sqft",- Multi-family home for sale
+792,"219 E 7th St APT 1, New York, NY 10009",Studio,1 ba,-- sqft,- Condo for sale
+793,"6901 Avenue X, Brooklyn, NY 11234",3 bds,3 ba,-- sqft,- House for sale
+794,"320 E 35th St APT 6H, New York, NY 10016",Studio,1 ba,475 sqft,- Condo for sale
+795,"15 Central Park W APT 6D, New York, NY 10023",4 bds,5 ba,"3,333 sqft",- Condo for sale
+796,"10710 142nd St, Jamaica, NY 11435",4 bds,2 ba,"1,568 sqft",- House for sale
+797,"205 W 57th St #11BDE, New York, NY 10019",2 bds,2 ba,-- sqft,- Condo for sale
+798,"2741 E 28th St APT 1F, Brooklyn, NY 11235",1 bd,1 ba,800 sqft,- Condo for sale
