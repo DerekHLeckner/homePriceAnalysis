@@ -1,0 +1,790 @@
+,Price,Beds,Bathrooms,Square Footage,Property type,City,Zip Code
+0,453200,6,4.0,2168.0,- Foreclosure,Jamaica,11433
+1,119000,0,1.0,450.0,- Condo for sale,New York,10019
+2,1295000,4,3.0,2598.0,- For sale by owner,Brooklyn,11209
+3,65000,1,1.0,700.0,- Condo for sale,Bronx,10473
+4,379000,2,3.0,1800.0,- Condo for sale,New York,10022
+5,699000,3,3.0,2132.0,- House for sale,Staten Island,10314
+6,125000,5,2.0,2695.0,- Multi-family home for sale,Bronx,10456
+7,299000,3,2.0,1200.0,- Condo for sale,Bronx,10463
+8,375000,2,2.0,1400.0,- Condo for sale,New York,10022
+9,345000,3,2.0,1400.0,- Condo for sale,Bayside,11360
+10,200000,4,2.0,1248.0,- House for sale,Jamaica,11436
+11,495000,4,4.0,,- Condo for sale,New York,10022
+12,239000,2,1.0,1024.0,- Condo for sale,Brooklyn,11229
+13,360000,2,3.0,905.0,- House for sale,Staten Island,10306
+14,185000,3,2.0,,- House for sale,Howard Beach,11414
+15,500000,2,1.0,1000.0,- For sale by owner,Brooklyn,11209
+16,589000,2,2.0,825.0,- Condo for sale,Brooklyn,11215
+17,150000,0,1.0,650.0,- Condo for sale,New York,10019
+18,169000000,6,9.0,8255.0,- Condo for sale,New York,10022
+19,299000,1,1.0,,- Condo for sale,New York,10001
+20,345000,2,2.0,1400.0,- Condo for sale,New York,10022
+21,1650,1,1.0,640.0,- Condo for sale,Elmhurst,11373
+22,279000,2,1.0,,- Condo for sale,Astoria,11105
+23,174900,2,1.0,1000.0,- Foreclosure,Corona,11368
+24,150000,2,1.0,900.0,- Condo for sale,Bronx,10460
+25,150000,0,1.0,650.0,- Condo for sale,New York,10019
+26,85000,1,1.0,750.0,- Condo for sale,Bronx,10474
+27,305000,0,1.0,450.0,- For sale by owner,New York,10128
+28,300000,9,3.0,2976.0,- Multi-family home for sale,Brooklyn,11207
+29,425000,2,2.0,1250.0,- Condo for sale,New York,10022
+30,700000,4,3.0,1680.0,- Foreclosure,Staten Island,10304
+31,462000,2,2.0,1350.0,- For sale by owner,Jamaica,11435
+32,395000,3,2.0,1000.0,- Condo for sale,New York,10026
+33,85000,1,1.0,,- Condo for sale,Bronx,10452
+34,595000,3,3.0,2200.0,- Condo for sale,New York,10022
+35,365000,4,2.0,2214.0,- House for sale,Bronx,10467
+36,399000,3,2.0,1316.0,- House for sale,Brooklyn,11234
+37,599000,3,3.0,1660.0,- House for sale,Staten Island,10303
+38,790000,1,1.0,400.0,- For sale by owner,New York,10003
+39,170000,1,1.0,650.0,- Condo for sale,Brooklyn,11225
+40,375000,3,1.0,,- Condo for sale,Brooklyn,11216
+41,1519000,4,3.0,2310.0,- House for sale,Brooklyn,11234
+42,275000,3,3.0,595.0,- House for sale,Bronx,10473
+43,675000,3,2.0,2416.0,- House for sale,Staten Island,10312
+44,459000,2,1.0,1012.0,- Apartment for sale,New York,10027
+45,629000,3,1.0,1050.0,- For sale by owner,Brooklyn,11226
+46,1398000,4,3.0,2480.0,- Multi-family home for sale,Brooklyn,11228
+47,471000,3,2.0,1884.0,- House for sale,Bronx,10462
+48,899000,4,2.0,2338.0,- House for sale,Staten Island,10312
+49,549000,4,3.0,1730.0,- Multi-family home for sale,Staten Island,10305
+50,310000,5,2.0,,- House for sale,Jamaica,11433
+51,1250000,3,3.0,1440.0,- House for sale,Brooklyn,11216
+52,299000,1,1.0,750.0,- For sale by owner,Flushing,11372
+53,90000,0,1.0,400.0,- Condo for sale,Bronx,10452
+54,295000,2,2.0,1100.0,- Condo for sale,Bronx,10463
+55,699000,3,2.0,1600.0,- House for sale,Middle Village,11379
+56,265000,2,1.0,1100.0,- Apartment for sale,Bronx,10472
+57,799999,3,2.0,1955.0,- House for sale,Brooklyn,11234
+58,400000,3,1.0,1000.0,- Condo for sale,New York,10003
+59,329000,2,1.0,750.0,- Condo for sale,Forest Hills,11375
+60,688000,5,4.0,3052.0,- Multi-family home for sale,Brooklyn,11208
+61,999000,4,3.0,1428.0,- House for sale,Brooklyn,11204
+62,1595000,7,5.0,3704.0,- House for sale,Brooklyn,11210
+63,359000,1,1.0,330.0,- For sale by owner,New York,10075
+64,235000,3,2.0,,- House for sale,South Ozone Park,11420
+65,279000,3,2.0,,- Condo for sale,Brooklyn,11234
+66,549000,3,3.0,868.0,- House for sale,Jamaica,11434
+67,698000,3,3.0,1292.0,- House for sale,Staten Island,10306
+68,2998000,8,6.0,7478.0,- House for sale,Staten Island,10304
+69,325000,2,1.0,,- Condo for sale,Brooklyn,11249
+70,799000,3,2.0,2080.0,- House for sale,Bronx,10469
+71,769000,5,4.0,1577.0,- House for sale,Brooklyn,11208
+72,575000,4,2.0,1140.0,- House for sale,Saint Albans,11412
+73,281250,3,2.0,924.0,- House for sale,Brooklyn,11235
+75,299000,3,1.0,1479.0,- House for sale,Laurelton,11413
+76,1549999,5,4.0,4700.0,- House for sale,New Hyde Park,11040
+77,50000,1,1.0,1000.0,- Condo for sale,Bronx,10452
+78,499000,2,1.0,,- Condo for sale,New York,10009
+79,389000,3,3.0,1264.0,- House for sale,South Richmond Hill,11419
+80,595000,2,2.0,,- Condo for sale,New York,10021
+81,240000,3,2.0,994.0,- Condo for sale,New York,10034
+82,599000,3,3.0,,- House for sale,Bronx,10466
+83,589000,3,2.0,1300.0,- House for sale,Staten Island,10312
+84,495000,2,1.0,,- Condo for sale,New York,10012
+85,998000,3,3.0,,- House for sale,Flushing,11358
+86,249995,1,1.0,,- Condo for sale,Little Neck,11362
+87,450000,3,1.0,820.0,- Condo for sale,Brooklyn,11211
+88,509000,2,2.0,1575.0,- House for sale,Staten Island,10305
+89,599000,2,2.0,1778.0,- New construction,Brooklyn,11231
+91,699000,3,3.0,1305.0,- Condo for sale,Brooklyn,11234
+92,999000,3,2.0,1800.0,- For sale by owner,Far Rockaway,11694
+93,575000,3,2.0,1515.0,- House for sale,Staten Island,10307
+94,549000,3,1.0,1144.0,- House for sale,Staten Island,10306
+95,1999000,5,5.0,3700.0,- House for sale,Staten Island,10306
+96,859000,3,2.0,2500.0,- House for sale,Middle Village,11379
+97,50000,2,1.0,,- Condo for sale,Bronx,10465
+98,319000,0,1.0,150.0,- Condo for sale,New York,10014
+99,409900,3,2.0,948.0,- Foreclosure,Jamaica,11414
+100,400000,5,3.0,,- Multi-family home for sale,Brooklyn,11212
+101,899000,3,2.0,1411.0,- House for sale,Forest Hills,11375
+102,519000,7,4.0,3200.0,- Multi-family home for sale,Bronx,10472
+103,275000,0,1.0,,- Condo for sale,New York,10010
+104,249500,2,2.0,1000.0,- Condo for sale,Bronx,10471
+105,400000,1,1.0,,- Condo for sale,New York,10019
+106,348999,2,2.0,653.0,- New construction,Staten Island,10301
+107,325000,3,2.0,,- Condo for sale,Bayside,11360
+108,1350000,3,4.0,1862.0,- Apartment for sale,New York,10021
+109,235000,3,1.0,,- Condo for sale,Corona,11368
+110,110000,0,1.0,200.0,- Condo for sale,New York,10029
+111,2499999,5,5.0,4200.0,- For sale by owner,Brooklyn,11233
+112,825000,5,2.0,2094.0,- House for sale,Staten Island,10312
+113,265000,0,1.0,,- Condo for sale,New York,10022
+114,275000,4,3.0,1384.0,- Foreclosure,Bronx,10456
+115,759000,8,2.0,2710.0,- House for sale,Staten Island,10303
+116,999000,2,2.0,1100.0,- Condo for sale,New York,10018
+117,3200000,2,2.0,1700.0,- For sale by owner,New York,10025
+118,599999,3,2.0,1144.0,- House for sale,Staten Island,10309
+119,779000,6,5.0,1600.0,- Multi-family home for sale,Brooklyn,11208
+120,499000,2,1.0,1001.0,- Condo for sale,Brooklyn,11235
+121,250000,8,3.0,2604.0,- House for sale,Bronx,10473
+122,625000,3,2.0,1128.0,- House for sale,Brooklyn,11214
+123,255000,0,1.0,,- Condo for sale,New York,10128
+124,690000,2,1.0,718.0,- Condo for sale,Brooklyn,11231
+125,575000,3,1.0,,- House for sale,Jamaica,11411
+126,799000,3,2.0,1728.0,- Multi-family home for sale,East Elmhurst,11369
+127,739888,3,2.0,2008.0,- House for sale,Staten Island,10312
+128,469888,2,1.0,1152.0,- House for sale,Staten Island,10303
+129,998000,3,3.0,2196.0,- House for sale,Little Neck,11363
+130,289000,4,2.0,,- Condo for sale,Howard Beach,11414
+131,688900,4,2.0,2100.0,- House for sale,Staten Island,10308
+132,379000,2,1.0,625.0,- Condo for sale,New York,10025
+133,359000,2,1.0,,- Condo for sale,Kew Gardens,11415
+134,275000,2,1.0,750.0,- Condo for sale,New York,10037
+135,549000,4,2.0,1320.0,- House for sale,Jamaica,11434
+136,165000,2,1.0,890.0,- Condo for sale,Bronx,10460
+137,538000,4,2.0,3400.0,- House for sale,Staten Island,10301
+138,295000,2,2.0,1132.0,- Condo for sale,Bronx,10455
+139,329000,2,1.0,430000.0,- Condo for sale,Astoria,11105
+140,639000,3,3.0,1590.0,- House for sale,Staten Island,10309
+141,180000,2,3.0,1160.0,- Townhouse for sale,Staten Island,10304
+142,1275000,2,1.0,1100.0,- For sale by owner,Brooklyn,11201
+143,1895000,3,3.0,1818.0,- Apartment for sale,New York,10128
+144,350000,1,1.0,900.0,- Condo for sale,Brooklyn,11201
+145,675000,4,3.0,1584.0,- Multi-family home for sale,Bronx,10469
+146,349000,3,1.0,1129.0,- Condo for sale,Bronx,10465
+147,1050000,5,2.0,1750.0,- House for sale,Bayside,11360
+148,389000,4,2.0,1920.0,- House for sale,Jamaica,11434
+149,259000,1,1.0,650.0,- Condo for sale,Little Neck,11362
+150,665000,3,4.0,1459.0,- House for sale,Staten Island,10314
+151,375000,1,1.0,800.0,- Condo for sale,New York,10065
+152,359000,5,3.0,,- Multi-family home for sale,Brooklyn,11203
+153,375000,1,1.0,450.0,- Condo for sale,New York,10001
+154,448000,3,3.0,1400.0,- House for sale,Staten Island,10304
+155,435000,2,1.0,25264.0,- Condo for sale,New York,10128
+156,349900,2,1.0,,- House for sale,Howard Beach,11414
+157,165000,1,1.0,750.0,- Condo for sale,Bronx,10471
+158,235000,0,1.0,,- Condo for sale,New York,10036
+159,150000,1,1.0,700.0,- Condo for sale,Bronx,10455
+160,79000,1,1.0,600.0,- Condo for sale,Bronx,10472
+161,1299999,4,4.0,4027.0,- Multi-family home for sale,Staten Island,10309
+162,1750000,6,5.0,4900.0,- Multi-family home for sale,Staten Island,10309
+163,1399000,2,2.0,1246.0,- For sale by owner,Brooklyn,11249
+164,2375000,5,5.0,4277.0,- House for sale,Staten Island,10301
+165,1585000,3,2.0,,- For sale by owner,Brooklyn,11201
+166,300000,2,1.0,650.0,- Condo for sale,Brooklyn,11230
+167,429000,2,2.0,1200.0,- Condo for sale,New York,10019
+168,750000,3,3.0,1741.0,- Multi-family home for sale,Bronx,10462
+169,920000,2,1.0,,- Condo for sale,Brooklyn,11215
+170,440000,3,2.0,1362.0,- Auction,Springfield Gardens,11413
+171,370000,3,2.0,,- House for sale,Ozone Park,11417
+172,575000,3,2.0,1550.0,- House for sale,Staten Island,10305
+173,695000,3,2.0,,- House for sale,Queens Village,11428
+174,288000,2,1.0,,- Condo for sale,Oakland Gardens,11364
+175,699000,3,2.0,,- Condo for sale,New York,10009
+176,759000,3,4.0,1440.0,- House for sale,Staten Island,10312
+177,749000,4,3.0,868.0,- House for sale,Brooklyn,11234
+178,669000,3,4.0,2025.0,- House for sale,Staten Island,10305
+179,169000,1,1.0,750.0,- Condo for sale,Bronx,10471
+180,1995000,2,2.0,1016.0,- For sale by owner,New York,10003
+181,798888,4,4.0,2704.0,- Multi-family home for sale,Staten Island,10308
+182,875000,5,3.0,3650.0,- House for sale,Staten Island,10306
+183,298000,2,1.0,885.0,- Condo for sale,Brooklyn,11234
+184,329000,1,1.0,800.0,- Condo for sale,Brooklyn,11235
+185,268888,1,1.0,800.0,- Condo for sale,Brooklyn,11235
+186,2499500,3,6.0,4096.0,- House for sale,Brooklyn,11234
+187,419000,2,2.0,1354.0,- House for sale,Staten Island,10312
+188,598888,3,3.0,1735.0,- House for sale,Staten Island,10312
+189,347500,3,2.0,1400.0,- Condo for sale,Bronx,10463
+190,769999,4,2.0,2100.0,- House for sale,Staten Island,10312
+191,155000,0,1.0,,- Condo for sale,Forest Hills,11375
+192,555000,2,1.0,800.0,- For sale by owner,New York,10026
+193,299888,2,1.0,1040.0,- Condo for sale,Bayside,11361
+194,625000,3,2.0,1584.0,- House for sale,Brooklyn,11203
+195,648000,3,3.0,1344.0,- House for sale,Staten Island,10304
+196,800000,1,1.0,500.0,- For sale by owner,New York,10011
+197,650000,3,1.0,983.0,- Condo for sale,New York,10003
+198,209000,2,1.0,855.0,- House for sale,Staten Island,10306
+199,549000,3,2.0,1064.0,- House for sale,Staten Island,10310
+200,549000,3,2.0,1064.0,- House for sale,Staten Island,10310
+201,649900,4,3.0,1400.0,- House for sale,Staten Island,10305
+202,110000,1,1.0,750.0,- Condo for sale,Bronx,10462
+203,725000,11,1.0,4680.0,- Multi-family home for sale,Brooklyn,11237
+204,1688000,4,4.0,2500.0,- House for sale,Whitestone,11357
+205,1499000,2,2.0,2000.0,- Condo for sale,New York,10012
+206,750000,2,2.0,1250.0,- For sale by owner,Flushing,11372
+207,1575000,7,6.0,3268.0,- For sale by owner,Brooklyn,11216
+208,235000,1,1.0,700.0,- Condo for sale,Brooklyn,11223
+209,597600,1,1.0,664.0,- For sale by owner,Astoria,11106
+210,300000,4,1.0,1595.0,- House for sale,Brooklyn,11207
+211,475000,2,2.0,1200.0,- Townhouse for sale,Staten Island,10314
+212,148000,1,1.0,725.0,- Condo for sale,Bronx,10462
+213,330000,4,2.0,,- House for sale,Saint Albans,11412
+214,619000,3,2.0,1230.0,- House for sale,Brooklyn,11236
+215,733000,4,2.0,1425.0,- House for sale,Bellerose,11426
+216,399000,0,3.0,2160.0,- Multi-family home for sale,Brooklyn,11226
+217,1399999,4,3.0,2563.0,- Multi-family home for sale,Brooklyn,11209
+218,1240009,5,5.0,4089.0,- House for sale,Bellerose,11426
+219,945000,6,2.0,,- Multi-family home for sale,Ridgewood,11385
+220,639888,3,3.0,1685.0,- House for sale,Staten Island,10308
+221,890000,5,2.0,2400.0,- Multi-family home for sale,Rego Park,11374
+222,799000,4,3.0,,- House for sale,Brooklyn,11210
+223,459000,2,1.0,1566.0,- Condo for sale,Staten Island,10301
+224,614900,3,2.0,1144.0,- Foreclosure,Staten Island,10309
+225,1099999,4,5.0,3500.0,- Multi-family home for sale,Staten Island,10312
+226,342900,2,2.0,945.0,- Townhouse for sale,Staten Island,10314
+227,838000,3,2.0,,- House for sale,Bayside,11361
+228,220000,2,1.0,1000.0,- Condo for sale,Brooklyn,11235
+229,675000,3,3.0,2200.0,- Condo for sale,New York,10019
+230,788888,4,3.0,2397.0,- Multi-family home for sale,Bronx,10462
+231,898000,3,3.0,2250.0,- House for sale,Staten Island,10312
+233,530000,4,3.0,1134.0,- House for sale,Bronx,10467
+234,250000,1,1.0,798.0,- Condo for sale,Brooklyn,11223
+235,159999,1,1.0,750.0,- Condo for sale,Bronx,10462
+236,649000,4,2.0,,- House for sale,Hollis,11423
+237,759000,4,3.0,1321.0,- House for sale,Queens Village,11427
+238,899000,3,2.0,1627.0,- Townhouse for sale,Bronx,10471
+239,210000,1,1.0,800.0,- Condo for sale,Bronx,10471
+241,815000,1,1.0,650.0,- For sale by owner,New York,10017
+242,825000,4,3.0,2106.0,- Multi-family home for sale,Bronx,10470
+243,719000,3,2.0,1339.0,- House for sale,Brooklyn,11234
+244,839000,5,4.0,2400.0,- Multi-family home for sale,Bronx,10473
+245,59000000,5,7.0,10171.0,- Condo for sale,New York,10001
+246,624999,1,1.0,780.0,- Condo for sale,Brooklyn,11235
+247,200000,2,1.0,870.0,- Condo for sale,Bronx,10462
+248,570000,3,3.0,1675.0,- Condo for sale,Woodside,11377
+249,249900,2,1.0,,- Foreclosure,New York,10026
+250,388888,2,1.0,,- Condo for sale,Oakland Gardens,11364
+251,875000,3,2.0,1263.0,- Condo for sale,Brooklyn,11206
+252,1030000,5,4.0,3479.0,- Multi-family home for sale,Staten Island,10309
+253,350000,2,2.0,1024.0,- Townhouse for sale,Staten Island,10302
+254,599000,3,2.0,1116.0,- House for sale,Brooklyn,11207
+255,669000,3,2.0,,- House for sale,Brooklyn,11234
+256,225000,2,1.0,,- Condo for sale,New York,10025
+257,599000,3,2.0,1290.0,- House for sale,Staten Island,10301
+258,569000,4,3.0,,- House for sale,Ozone Park,11420
+259,199900,3,2.0,1176.0,- House for sale,Staten Island,10304
+260,213000,1,1.0,700.0,- Condo for sale,Brooklyn,11235
+261,1950000,4,5.0,5733.0,- House for sale,Staten Island,10305
+262,123500,0,1.0,550.0,- Foreclosure,Bronx,10455
+263,359900,3,2.0,880.0,- House for sale,Bronx,10464
+264,450000,2,3.0,,- Condo for sale,New York,10022
+265,929000,3,3.0,1800.0,- Multi-family home for sale,Staten Island,10305
+266,1399900,5,4.0,3150.0,- House for sale,Staten Island,10309
+267,599000,3,2.0,864.0,- House for sale,Staten Island,10304
+268,599000,3,2.0,1386.0,- House for sale,Staten Island,10312
+269,559000,3,2.0,1816.0,- Townhouse for sale,Staten Island,10306
+270,479900,9,4.0,3075.0,- Foreclosure,Brooklyn,11207
+271,769000,4,2.0,1640.0,- House for sale,Brooklyn,11210
+272,1250000,2,1.0,877.0,- For sale by owner,New York,10025
+273,999999,6,2.0,2264.0,- Multi-family home for sale,Staten Island,10302
+274,889000,3,4.0,2614.0,- Multi-family home for sale,Staten Island,10308
+275,1075000,5,4.0,2816.0,- Multi-family home for sale,Brooklyn,11213
+276,875000,3,3.0,2600.0,- Multi-family home for sale,Staten Island,10309
+277,149900,3,1.0,840.0,- House for sale,Staten Island,10303
+278,959000,5,3.0,3224.0,- Multi-family home for sale,Staten Island,10309
+279,1099000,6,5.0,2500.0,- New construction,Springfield Gardens,11413
+280,889000,5,4.0,2088.0,- Multi-family home for sale,Saint Albans,11412
+281,369000,3,2.0,1100.0,- Condo for sale,Staten Island,10305
+282,1488000,5,3.0,,- House for sale,Bayside,11361
+283,529000,1,2.0,,- Condo for sale,New York,10023
+284,655000,2,1.0,860.0,- House for sale,Bayside,11361
+285,899000,3,2.0,1288.0,- House for sale,Flushing,11365
+286,719900,3,2.0,1512.0,- House for sale,Bronx,10461
+287,795000,5,2.0,1980.0,- House for sale,Staten Island,10309
+288,769000,3,2.0,1670.0,- House for sale,Staten Island,10304
+289,399000,2,2.0,1437.0,- Condo for sale,Bronx,10465
+290,2200000,5,5.0,6000.0,- House for sale,Brooklyn,11234
+291,588789,3,3.0,1360.0,- House for sale,Staten Island,10308
+292,525000,3,4.0,,- Condo for sale,New York,10022
+293,2790000,6,7.0,3088.0,- Townhouse for sale,Brooklyn,11233
+294,459000,3,2.0,1180.0,- Townhouse for sale,Staten Island,10314
+295,1285000,4,3.0,2100.0,- House for sale,Oakland Gardens,11364
+296,625000,3,2.0,2025.0,- House for sale,Jamaica,11414
+297,629000,3,2.0,1260.0,- House for sale,Staten Island,10314
+298,578000,3,2.0,1240.0,- House for sale,Staten Island,10305
+299,385000,0,1.0,300.0,- Condo for sale,New York,10024
+300,339000,1,1.0,576.0,- House for sale,Staten Island,10306
+301,485000,4,3.0,1840.0,- House for sale,Jamaica,11436
+302,829000,6,5.0,3005.0,- Multi-family home for sale,Bronx,10467
+303,475000,2,2.0,1640.0,- House for sale,Jamaica,11434
+304,349000,2,1.0,,- Condo for sale,Little Neck,11362
+305,750000,3,4.0,3300.0,- Condo for sale,New York,10022
+306,798800,3,2.0,1512.0,- House for sale,Staten Island,10308
+307,299995,2,1.0,770.0,- Condo for sale,Jackson Heights,11372
+308,195000,2,1.0,1100.0,- Condo for sale,Corona,11368
+309,500000,5,2.0,2280.0,- Multi-family home for sale,Brooklyn,11233
+310,629000,3,2.0,1280.0,- House for sale,Staten Island,10312
+311,799000,4,3.0,1575.0,- Multi-family home for sale,Brooklyn,11210
+312,510000,2,2.0,,- Condo for sale,New York,10022
+313,235000,2,1.0,,- Condo for sale,Queens Village,11427
+314,315000,1,1.0,750.0,- Condo for sale,Brooklyn,11235
+315,1495000,2,2.0,1350.0,- Condo for sale,Brooklyn,11201
+316,695000,3,2.0,2286.0,- House for sale,Bronx,10469
+317,350000,4,2.0,,- Multi-family home for sale,Jamaica,11422
+318,695000,3,2.0,2286.0,- House for sale,Bronx,10469
+319,350000,4,2.0,,- Multi-family home for sale,Jamaica,11422
+320,465000,2,3.0,1476.0,- Townhouse for sale,Staten Island,10314
+321,380000,1,1.0,650.0,- Condo for sale,New York,10016
+322,700000,6,4.0,2000.0,- Auction,Jamaica,11413
+323,899999,5,3.0,2160.0,- House for sale,Staten Island,10309
+324,275000,2,1.0,950.0,- Condo for sale,Kew Gardens,11415
+325,239000,2,2.0,1200.0,- House for sale,Brooklyn,11234
+326,649000,1,1.0,815.0,- For sale by owner,New York,10010
+327,259000,0,1.0,500.0,- Condo for sale,Brooklyn,11235
+328,408995,3,2.0,1400.0,- Condo for sale,Bronx,10463
+329,359000,0,1.0,550.0,- Condo for sale,New York,10022
+330,524700,6,4.0,5360.0,- Foreclosure,Jamaica,11433
+331,900000,3,2.0,1550.0,- House for sale,Flushing,11365
+332,1850000,3,3.0,,- Condo for sale,New York,10021
+333,199000,4,2.0,,- House for sale,Other,
+334,848888,4,3.0,5400.0,- House for sale,Queens Village,11427
+335,419888,3,1.0,,- Condo for sale,Whitestone,11357
+336,259000,1,1.0,650.0,- Condo for sale,Little Neck,11362
+337,639000,3,2.0,1408.0,- House for sale,Staten Island,10314
+338,365000,3,1.0,2100.0,- House for sale,Staten Island,10306
+339,240000,2,1.0,1000.0,- Condo for sale,Brooklyn,11235
+340,1899000,4,5.0,3710.0,- House for sale,Staten Island,10306
+341,180000,2,1.0,900.0,- Apartment for sale,Bronx,10456
+342,674900,3,2.0,1008.0,- House for sale,Staten Island,10312
+343,799000,1,1.0,712.0,- For sale by owner,Brooklyn,11238
+344,63000000,7,11.0,13000.0,- House for sale,New York,10065
+345,300000,2,1.0,1000.0,- Apartment for sale,Rego Park,11374
+346,400000,6,3.0,3120.0,- House for sale,Jamaica,11433
+347,400000,6,3.0,3120.0,- House for sale,Jamaica,11433
+348,429900,3,1.0,1062.0,- House for sale,Staten Island,10302
+349,595000,2,2.0,1350.0,- Condo for sale,New York,10003
+350,329000,3,2.0,1200.0,- Condo for sale,Bronx,10452
+351,775000,2,1.0,600.0,- Condo for sale,Brooklyn,11215
+352,159900,1,1.0,,- Condo for sale,Howard Beach,11414
+353,110000,0,1.0,220.0,- Condo for sale,Bronx,10463
+354,335000,1,1.0,750.0,- Condo for sale,Elmhurst,11373
+355,249000,1,1.0,750.0,- Condo for sale,New York,10026
+356,619000,3,2.0,1320.0,- House for sale,Staten Island,10314
+357,330000,1,1.0,1000.0,- Condo for sale,New York,10022
+358,799000,4,3.0,1215.0,- House for sale,Staten Island,10308
+359,1450000,4,6.0,3240.0,- House for sale,Floral Park,11001
+360,718000,2,2.0,1250.0,- For sale by owner,Flushing,11375
+361,645000,1,1.0,636.0,- For sale by owner,Astoria,11106
+362,550000,3,2.0,1288.0,- House for sale,Staten Island,10301
+363,388800,2,2.0,1008.0,- Townhouse for sale,Staten Island,10314
+364,1999950,1,2.0,1100.0,- For sale by owner,New York,10022
+365,589000,3,2.0,1368.0,- House for sale,Staten Island,10306
+366,689000,8,4.0,2750.0,- Multi-family home for sale,Jamaica,11435
+367,675000,1,1.0,,- Condo for sale,New York,10012
+368,675000,4,1.0,1463.0,- House for sale,Staten Island,10306
+369,489888,2,1.0,1250.0,- Condo for sale,Whitestone,11357
+370,1049900,4,4.0,2744.0,- House for sale,Staten Island,10312
+371,299000,3,2.0,2314.0,- Multi-family home for sale,Bronx,10469
+372,595000,4,2.0,1300.0,- House for sale,Bronx,10465
+373,265000,0,1.0,460.0,- Condo for sale,New York,10022
+374,1425000,5,3.0,,- Multi-family home for sale,Astoria,11105
+375,159000,1,1.0,,- Condo for sale,Bronx,10463
+376,249000,2,1.0,1000.0,- Condo for sale,Brooklyn,11235
+377,429900,3,2.0,1242.0,- Townhouse for sale,Staten Island,10314
+378,1100000,1,1.0,750.0,- For sale by owner,New York,10023
+379,1425000,2,2.0,743.0,- Condo for sale,New York,10002
+380,125000,2,1.0,1000.0,- Condo for sale,Brooklyn,11235
+381,1299000,3,2.0,2100.0,- House for sale,Brooklyn,11228
+382,178000,1,1.0,,- Condo for sale,Jamaica,11432
+383,325000,1,1.0,680.0,- Condo for sale,Brooklyn,11214
+384,569000,3,1.0,2101.0,- House for sale,Bronx,10462
+385,990000,4,4.0,3270.0,- House for sale,Staten Island,10309
+386,899999,5,3.0,1808.0,- Multi-family home for sale,Springfield Gardens,11413
+387,325000,0,1.0,,- Condo for sale,New York,10017
+388,4495000,5,4.0,3516.0,- House for sale,Brooklyn,11217
+389,390000,3,2.0,,- Apartment for sale,Bronx,10455
+390,195000,0,1.0,,- Condo for sale,Kew Gardens,11415
+391,2295000,5,4.0,,- House for sale,Jamaica,11432
+392,199000,2,1.0,700.0,- Condo for sale,New York,10032
+393,350000,3,1.0,1090.0,- Condo for sale,New York,10027
+394,230000,1,1.0,,- Condo for sale,Kew Gardens,11415
+395,775000,3,3.0,1673.0,- Multi-family home for sale,Bronx,10465
+396,499000,3,2.0,1560.0,- Townhouse for sale,Staten Island,10309
+397,150000,2,1.0,,- Condo for sale,New York,10032
+398,230000,1,1.0,,- Condo for sale,Kew Gardens,11415
+399,775000,3,3.0,1673.0,- Multi-family home for sale,Bronx,10465
+400,499000,3,2.0,1560.0,- Townhouse for sale,Staten Island,10309
+401,150000,2,1.0,,- Condo for sale,New York,10032
+402,799000,3,3.0,1320.0,- House for sale,Brooklyn,11234
+403,579000,3,2.0,1944.0,- Townhouse for sale,Staten Island,10312
+404,325000,3,1.0,700.0,- Condo for sale,New York,10029
+405,275000,1,1.0,600.0,- Condo for sale,Astoria,11105
+406,160000,2,1.0,,- Condo for sale,Far Rockaway,11691
+407,2600000,3,2.0,1600.0,- Condo for sale,Brooklyn,11201
+408,368000,2,1.0,825.0,- Condo for sale,Oakland Gardens,11364
+409,368000,2,1.0,825.0,- Condo for sale,Oakland Gardens,11364
+410,599000,3,2.0,1176.0,- House for sale,Ozone Park,11416
+411,65000,2,1.0,,- Condo for sale,Bronx,10465
+412,669000,3,3.0,976.0,- House for sale,Jamaica,11435
+413,300000,2,1.0,,- Condo for sale,New York,10027
+414,1698000,4,3.0,1544.0,- House for sale,Forest Hills,11375
+415,988000,5,4.0,3200.0,- Multi-family home for sale,Staten Island,10301
+416,329900,1,1.0,738.0,- Condo for sale,Staten Island,10314
+417,4700000,2,2.0,1975.0,- For sale by owner,New York,10002
+418,259000,2,1.0,900.0,- Condo for sale,Corona,11368
+419,699000,4,2.0,1900.0,- House for sale,Brooklyn,11210
+420,250000,1,1.0,720.0,- Condo for sale,New York,10025
+421,824999,4,3.0,2450.0,- Multi-family home for sale,Staten Island,10305
+422,841750,1,1.0,,- For sale by owner,Brooklyn,11222
+423,2475000,3,2.0,1800.0,- For sale by owner,New York,10075
+424,789000,5,4.0,2500.0,- House for sale,Staten Island,10314
+425,539000,3,2.0,1274.0,- House for sale,Staten Island,10303
+426,66000000,4,6.0,7130.0,- Condo for sale,New York,10019
+427,649998,3,4.0,1368.0,- House for sale,Staten Island,10312
+428,399900,3,2.0,1344.0,- House for sale,Staten Island,10303
+429,995000,2,3.0,2000.0,- Condo for sale,New York,10022
+430,375000,0,1.0,,- Condo for sale,Brooklyn,11215
+431,219000,1,1.0,725.0,- Condo for sale,Kew Gardens,11415
+432,1189000,4,3.0,1880.0,- Multi-family home for sale,Astoria,11103
+433,1895000,2,2.0,1100.0,- Condo for sale,New York,10013
+434,690000,1,1.0,575.0,- For sale by owner,New York,10026
+435,5400000,4,5.0,4500.0,- House for sale,Brooklyn,11228
+436,550000,1,1.0,850.0,- Condo for sale,New York,10016
+437,300000,3,2.0,,- Condo for sale,Brooklyn,11234
+438,1025000,3,3.0,2340.0,- Multi-family home for sale,Brooklyn,11209
+439,1680000,4,4.0,4000.0,- House for sale,Little Neck,11362
+440,1275000,7,5.0,3302.0,- Multi-family home for sale,Brooklyn,11221
+441,1038888,3,2.0,1350.0,- House for sale,Flushing,11365
+442,289000,1,1.0,850.0,- Condo for sale,Brooklyn,11235
+443,249500,2,1.0,,- Condo for sale,Howard Beach,11414
+444,2845000,5,4.0,4128.0,- Townhouse for sale,New York,10030
+445,624999,1,1.0,780.0,- Condo for sale,Brooklyn,11235
+446,799000,3,2.0,1861.0,- House for sale,Staten Island,10312
+447,1295000,3,2.0,1215.0,- Condo for sale,Brooklyn,11215
+448,549888,4,3.0,1818.0,- House for sale,Far Rockaway,11691
+449,749000,3,3.0,1596.0,- House for sale,Staten Island,10307
+450,335000,1,1.0,573.0,- For sale by owner,Richmond Hill,11418
+451,835000,3,2.0,1710.0,- Multi-family home for sale,Whitestone,11357
+452,775000,3,2.0,1216.0,- House for sale,Queens Village,11428
+453,599000,3,3.0,712.0,- House for sale,Brooklyn,11236
+454,425000,2,3.0,1324.0,- House for sale,Staten Island,10303
+455,515000,5,3.0,1158.0,- House for sale,Far Rockaway,11691
+456,4500000,4,4.0,2800.0,- For sale by owner,New York,10028
+457,145000,2,1.0,800.0,- Condo for sale,Bronx,10460
+458,544888,3,2.0,1100.0,- House for sale,Staten Island,10306
+459,775000,3,4.0,3500.0,- Condo for sale,New York,10022
+460,699000,3,3.0,1360.0,- House for sale,Howard Beach,11414
+461,875000,5,2.0,2240.0,- Multi-family home for sale,Staten Island,10305
+462,425000,2,3.0,3000.0,- Condo for sale,New York,10022
+463,1438888,6,3.0,2400.0,- Multi-family home for sale,Flushing,11358
+464,565000,3,3.0,1836.0,- House for sale,Staten Island,10303
+465,185000,0,1.0,380.0,- Condo for sale,Brooklyn,11209
+466,595000,2,2.0,,- Condo for sale,New York,10021
+467,323000,0,1.0,535.0,- Condo for sale,New York,10040
+468,715000,5,3.0,2180.0,- Multi-family home for sale,Bronx,10469
+469,1050000,2,1.0,1070.0,- For sale by owner,New York,10003
+470,535000,3,2.0,1250.0,- Condo for sale,Elmhurst,11373
+471,699000,4,3.0,1318.0,- House for sale,Staten Island,10306
+472,648000,3,2.0,1180.0,- House for sale,Staten Island,10306
+473,249999,3,1.0,1400.0,- Condo for sale,Bronx,10453
+474,715000,3,2.0,1740.0,- Multi-family home for sale,Bronx,10461
+475,729999,4,2.0,1884.0,- House for sale,Staten Island,10308
+476,1195000,1,1.0,850.0,- For sale by owner,New York,10011
+477,745000,3,2.0,2215.0,- House for sale,Staten Island,10312
+478,729999,4,2.0,1884.0,- House for sale,Staten Island,10308
+479,1195000,1,1.0,850.0,- For sale by owner,New York,10011
+480,745000,3,2.0,2215.0,- House for sale,Staten Island,10312
+481,999998,5,4.0,2677.0,- Multi-family home for sale,Staten Island,10306
+482,349000,1,2.0,,- Condo for sale,New York,10019
+483,514000,4,2.0,1514.0,- House for sale,Staten Island,10310
+484,215500,0,1.0,650.0,- Condo for sale,Forest Hills,11375
+485,1950000,2,2.0,925.0,- Condo for sale,New York,10014
+486,839000,5,2.0,,- Multi-family home for sale,Richmond Hill,11418
+487,1750000,4,4.0,1820.0,- Condo for sale,New York,10128
+488,260000,2,1.0,,- Condo for sale,Jamaica,11435
+489,175000,1,1.0,613.0,- Condo for sale,Bronx,10462
+490,739000,3,3.0,2052.0,- House for sale,Bronx,10469
+491,598000,4,3.0,2000.0,- Townhouse for sale,Staten Island,10312
+492,69999,1,1.0,800.0,- Condo for sale,Bronx,10457
+493,484900,3,3.0,1780.0,- House for sale,Staten Island,10301
+494,329000,2,2.0,,- Condo for sale,Bronx,10471
+495,427500,3,2.0,1488.0,- Foreclosure,Jamaica,11433
+496,10250000,5,5.0,4500.0,- For sale by owner,New York,10128
+497,6188000,6,5.0,3958.0,- House for sale,Brooklyn,11228
+498,255000,3,1.0,1200.0,- Condo for sale,Brooklyn,11229
+499,1300000,5,3.0,2700.0,- Multi-family home for sale,Brooklyn,11207
+500,200000,1,1.0,,- Condo for sale,New York,10026
+501,675000,2,2.0,1000.0,- Condo for sale,Brooklyn,11229
+502,990000,6,5.0,3000.0,- Multi-family home for sale,Jamaica,11434
+503,1298000,4,3.0,2300.0,- House for sale,Flushing,11358
+504,649000,3,1.0,1960.0,- House for sale,Staten Island,10308
+505,999999,4,4.0,2520.0,- Multi-family home for sale,Staten Island,10312
+506,2980000,5,5.0,,- New construction,Bayside,11361
+507,365000,2,1.0,1100.0,- Condo for sale,Bronx,10463
+508,1550000,2,1.0,1100.0,- Condo for sale,New York,10001
+509,215000,2,1.0,850.0,- Condo for sale,Bronx,10471
+510,799000,4,3.0,1949.0,- Multi-family home for sale,Brooklyn,11203
+511,580000,3,1.0,1368.0,- House for sale,Staten Island,10314
+512,1098888,5,5.0,2478.0,- House for sale,Queens Village,11428
+513,250000,2,1.0,1000.0,- Condo for sale,Brooklyn,11213
+514,425000,1,1.0,,- Condo for sale,New York,10128
+515,3499000,7,8.0,12200.0,- House for sale,Staten Island,10304
+516,499999,3,1.0,,- Condo for sale,Bayside,11360
+517,749000,2,2.0,1050.0,- Condo for sale,Astoria,11106
+518,18800000,7,9.0,9300.0,- House for sale,New York,10065
+519,2239000,5,4.0,4845.0,- House for sale,Brooklyn,11234
+520,998000,4,2.0,1224.0,- Multi-family home for sale,Flushing,11355
+521,325000,2,1.0,800.0,- Condo for sale,Brooklyn,11203
+522,459000,2,2.0,1000.0,- Condo for sale,Bayside,11360
+523,900000,3,3.0,1700.0,- Condo for sale,New York,10065
+524,567000,3,3.0,,- Condo for sale,Bayside,11360
+525,969000,4,2.0,1862.0,- House for sale,Brooklyn,11210
+526,840000,4,3.0,1418.0,- House for sale,Staten Island,10301
+527,250000,2,1.0,836.0,- Condo for sale,Bronx,10462
+528,1975000,5,4.0,2726.0,- Multi-family home for sale,Brooklyn,11216
+529,599000,2,2.0,1400.0,- Condo for sale,Bayside,11360
+530,1695000,2,2.0,1600.0,- Condo for sale,New York,10010
+531,699999,7,5.0,3000.0,- Multi-family home for sale,Bronx,10460
+532,79000000,1,1.0,9680.0,- Condo for sale,New York,10007
+533,470000,0,1.0,600.0,- Condo for sale,New York,10016
+534,320000,1,1.0,,- Condo for sale,Richmond Hill,11418
+535,350000,0,1.0,,- Condo for sale,New York,10009
+536,225000,2,1.0,,- Condo for sale,New York,10025
+537,695000,2,2.0,,- Condo for sale,New York,10065
+538,269000,1,1.0,850.0,- Condo for sale,Brooklyn,11223
+539,599000,3,2.0,1280.0,- House for sale,Staten Island,10306
+540,1325000,3,4.0,4950.0,- Multi-family home for sale,Staten Island,10309
+541,649000,4,3.0,1600.0,- Condo for sale,Bronx,10465
+542,199000,0,1.0,566.0,- Condo for sale,Kew Gardens,11415
+543,839000,5,2.0,2350.0,- Multi-family home for sale,Bronx,10465
+544,480000,0,1.0,488.0,- Condo for sale,New York,10013
+545,258000,1,1.0,850.0,- Condo for sale,Flushing,11354
+546,499000,0,1.0,,- Condo for sale,New York,10012
+547,659000,4,4.0,2544.0,- Multi-family home for sale,Staten Island,10310
+548,629900,3,2.0,1470.0,- House for sale,Staten Island,10312
+549,1099000,4,3.0,2367.0,- House for sale,Middle Village,11379
+550,135000,1,1.0,800.0,- Condo for sale,Bronx,10460
+551,125000,2,1.0,600.0,- Condo for sale,New York,10032
+552,1050000,7,3.0,2352.0,- Multi-family home for sale,Bronx,10461
+553,3350000,4,5.0,4400.0,- House for sale,Whitestone,11357
+554,650000,2,1.0,910.0,- Condo for sale,Astoria,11106
+555,799000,5,2.0,2170.0,- Multi-family home for sale,Bronx,10461
+556,1399000,5,4.0,3900.0,- New construction,Staten Island,10309
+557,1399000,5,4.0,3900.0,- New construction,Staten Island,10309
+558,879888,3,1.0,1224.0,- House for sale,Long Island City,11106
+559,998000,3,2.0,2011.0,- House for sale,Brooklyn,11229
+560,375000,1,1.0,800.0,- Condo for sale,New York,10065
+561,749000,3,2.0,1525.0,- House for sale,Bronx,10463
+562,925000,5,4.0,2656.0,- Multi-family home for sale,Staten Island,10307
+563,599999,4,3.0,,- House for sale,Jamaica,11412
+564,370000,1,1.0,550.0,- Condo for sale,Brooklyn,11214
+565,749900,3,2.0,1232.0,- House for sale,Staten Island,10306
+566,519000,4,2.0,1600.0,- House for sale,Staten Island,10309
+567,20150000,3,4.0,3576.0,- For sale by owner,New York,10022
+568,574999,3,3.0,1491.0,- Townhouse for sale,Staten Island,10309
+569,499000,4,2.0,1280.0,- House for sale,Queens Village,11429
+570,789999,4,2.0,1884.0,- Multi-family home for sale,Brooklyn,11203
+571,775000,5,3.0,1795.0,- Multi-family home for sale,Jamaica,11434
+572,385000,2,1.0,900.0,- House for sale,Rockaway Park,11694
+573,399000,3,1.0,,- Condo for sale,Little Neck,11362
+574,900000,4,3.0,,- House for sale,Middle Village,11379
+575,899000,6,4.0,2256.0,- Multi-family home for sale,Jamaica,11422
+576,249000,2,1.0,950.0,- Condo for sale,Bronx,10471
+577,580000,1,1.0,600.0,- Condo for sale,New York,10013
+578,89000,1,1.0,740.0,- Condo for sale,Bronx,10467
+579,2675000,4,5.0,6555.0,- House for sale,Staten Island,10304
+580,779000,4,3.0,2314.0,- House for sale,Saint Albans,11412
+581,2250000,6,4.0,2212.0,- For sale by owner,Brooklyn,11226
+582,249000,3,1.0,1150.0,- Condo for sale,Bronx,10458
+583,349000,3,4.0,1710.0,- Townhouse for sale,Staten Island,10302
+584,395000,2,2.0,1060.0,- Condo for sale,Brooklyn,11206
+585,649000,3,1.0,,- House for sale,Brooklyn,11234
+586,449000,2,1.0,1100.0,- Condo for sale,Bronx,10471
+587,1199000,6,4.0,2250.0,- Multi-family home for sale,Staten Island,10301
+588,895000,5,3.0,2875.0,- House for sale,Bronx,10469
+589,430000,4,2.0,2040.0,- House for sale,Bronx,10465
+590,525000,3,1.0,900.0,- Condo for sale,New York,10031
+591,299000,1,1.0,800.0,- Condo for sale,Forest Hills,11375
+592,649000,2,2.0,1064.0,- House for sale,Brooklyn,11234
+593,239000,1,1.0,,- Condo for sale,Bayside,11360
+594,729700,4,3.0,2000.0,- Off market: Zestimate,Staten Island,10314
+595,95000,2,1.0,848.0,- Condo for sale,Bronx,10474
+596,528000,3,2.0,1378.0,- House for sale,Staten Island,10312
+598,500000,0,1.0,,- Condo for sale,New York,10011
+599,888000,2,2.0,,- Apartment for sale,New York,10010
+600,180000,2,1.0,900.0,- Condo for sale,Bronx,10456
+601,449000,0,1.0,,- Condo for sale,New York,10024
+602,1458888,4,4.0,2100.0,- House for sale,Whitestone,11357
+603,1298000,4,4.0,4800.0,- House for sale,Staten Island,10307
+604,675000,4,3.0,1710.0,- Multi-family home for sale,Bronx,10462
+605,649000,3,2.0,1100.0,- Condo for sale,Brooklyn,11235
+606,929000,4,2.0,2617.0,- Multi-family home for sale,Staten Island,10314
+607,559000,3,4.0,1915.0,- House for sale,Staten Island,10301
+608,995000,4,4.0,2400.0,- House for sale,Bronx,10461
+609,145000,2,1.0,,- Condo for sale,Bronx,10460
+610,530000,2,2.0,1200.0,- Condo for sale,Brooklyn,11235
+611,140000,1,1.0,,- Condo for sale,Far Rockaway,11691
+612,225000,2,1.0,,- Foreclosure,Corona,11368
+613,599000,3,1.0,1050.0,- House for sale,Staten Island,10305
+615,1099000,6,3.0,2400.0,- Multi-family home for sale,Brooklyn,11220
+616,675000,1,1.0,550.0,- Condo for sale,New York,10014
+617,350000,2,2.0,,- Condo for sale,Little Neck,11362
+618,398500,3,3.0,1232.0,- Foreclosure,Staten Island,10305
+619,235000,3,1.0,700.0,- Condo for sale,New York,10032
+620,479900,2,3.0,977.0,- House for sale,Staten Island,10309
+621,429000,3,2.0,1110.0,- Auction,Springfield Gardens,11413
+622,1250000,5,5.0,5700.0,- House for sale,Brooklyn,11234
+623,1750000,5,2.0,2166.0,- Multi-family home for sale,Brooklyn,11222
+624,599000,1,1.0,745.0,- For sale by owner,Brooklyn,11215
+625,301100,3,2.0,1677.0,- Condo for sale,Staten Island,10303
+627,300000,3,1.0,1120.0,- Townhouse for sale,Staten Island,10303
+628,928000,4,3.0,1632.0,- House for sale,Brooklyn,11229
+629,1850000,5,5.0,2478.0,- House for sale,Brooklyn,11218
+630,110000,2,1.0,1100.0,- Condo for sale,Bronx,10465
+631,248000,1,1.0,850.0,- Condo for sale,Flushing,11354
+632,679000,6,4.0,2100.0,- Foreclosure,Jamaica,11434
+633,580250,2,2.0,1055.0,- New construction,Woodside,11377
+634,999888,6,2.0,2884.0,- Multi-family home for sale,Brooklyn,11216
+635,750000,2,2.0,1129.0,- Condo for sale,Brooklyn,11209
+636,589000,3,1.0,960.0,- House for sale,Staten Island,10314
+637,450000,1,1.0,500.0,- Condo for sale,New York,10009
+638,2400000,3,3.0,1400.0,- For sale by owner,New York,10010
+639,275995,3,2.0,,- House for sale,Brooklyn,11207
+640,659000,3,3.0,1420.0,- House for sale,Staten Island,10312
+641,465000,3,2.0,,- Condo for sale,Bayside,11360
+642,885000,4,2.0,,- Condo for sale,New York,10024
+643,459000,3,2.0,1206.0,- Condo for sale,Bronx,10473
+644,597000,3,3.0,2622.0,- Multi-family home for sale,Bronx,10466
+645,1200000,5,2.0,,- Multi-family home for sale,Elmhurst,11373
+646,489999,2,1.0,960.0,- House for sale,Staten Island,10312
+647,989777,6,3.0,1936.0,- Multi-family home for sale,South Ozone Park,11420
+648,619000,4,2.0,1725.0,- House for sale,Saint Albans,11412
+649,600000,3,2.0,2500.0,- House for sale,Bronx,10471
+650,355000,5,2.0,1568.0,- Multi-family home for sale,Jamaica,11422
+651,2750000,4,6.0,6641.0,- House for sale,Staten Island,10304
+652,2595000,12,6.0,4080.0,- House for sale,Brooklyn,11224
+653,499000,3,2.0,1176.0,- House for sale,Staten Island,10312
+654,549000,3,2.0,1080.0,- Townhouse for sale,Staten Island,10304
+655,2250000,2,2.0,1480.0,- Condo for sale,New York,10011
+656,839999,5,3.0,2592.0,- Multi-family home for sale,Staten Island,10305
+657,875000,1,1.0,,- Condo for sale,New York,10014
+658,559000,3,2.0,1204.0,- House for sale,Staten Island,10314
+659,229000,2,1.0,950.0,- Condo for sale,Brooklyn,11223
+660,699000,3,3.0,6570.0,- House for sale,Cambria Heights,11411
+661,678888,3,2.0,1640.0,- House for sale,Brooklyn,11229
+662,879000,4,2.0,2750.0,- House for sale,Staten Island,10305
+663,318000,3,2.0,,- Condo for sale,Jamaica,11435
+664,519000,1,1.0,,- Condo for sale,New York,10022
+665,1400000,4,3.0,,- Multi-family home for sale,Flushing,11355
+666,355000,3,1.0,,- Condo for sale,Little Neck,11362
+667,1499000,5,5.0,3900.0,- New construction,Staten Island,10309
+668,699000,4,2.0,1125.0,- House for sale,Maspeth,11378
+669,649900,3,3.0,1645.0,- Townhouse for sale,Staten Island,10314
+670,165000,0,1.0,450.0,- Condo for sale,Flushing,11375
+671,579000,3,2.0,1500.0,- House for sale,Staten Island,10301
+672,575000,4,2.0,1752.0,- Multi-family home for sale,Bronx,10466
+673,28000000,5,6.0,5864.0,- Townhouse for sale,New York,10014
+674,425000,1,1.0,800.0,- Condo for sale,Brooklyn,11201
+675,699000,3,1.0,1036.0,- House for sale,Brooklyn,11234
+676,1899000,4,3.0,2400.0,- Multi-family home for sale,Brooklyn,11238
+677,699000,4,2.0,1125.0,- House for sale,Maspeth,11378
+678,649900,3,3.0,1645.0,- Townhouse for sale,Staten Island,10314
+679,165000,0,1.0,450.0,- Condo for sale,Flushing,11375
+680,579000,3,2.0,1500.0,- House for sale,Staten Island,10301
+681,575000,4,2.0,1752.0,- Multi-family home for sale,Bronx,10466
+682,28000000,5,6.0,5864.0,- Townhouse for sale,New York,10014
+683,425000,1,1.0,800.0,- Condo for sale,Brooklyn,11201
+684,699000,3,1.0,1036.0,- House for sale,Brooklyn,11234
+685,1899000,4,3.0,2400.0,- Multi-family home for sale,Brooklyn,11238
+686,129000,0,1.0,288.0,- Condo for sale,Staten Island,10308
+687,925000,2,2.0,1206.0,- Condo for sale,Brooklyn,11205
+688,329000,0,1.0,550.0,- Condo for sale,New York,10065
+689,258000,1,1.0,,- Condo for sale,Whitestone,11357
+690,699000,3,2.0,1836.0,- Multi-family home for sale,Woodhaven,11421
+691,305000,3,1.0,,- Condo for sale,Oakland Gardens,11364
+693,469000,0,2.0,1600.0,- Condo for sale,Staten Island,10301
+694,1450000,2,2.0,933.0,- For sale by owner,New York,10025
+695,615000,4,2.0,1980.0,- Townhouse for sale,Bronx,10461
+696,595000,3,2.0,1660.0,- House for sale,Bronx,10461
+697,799000,3,2.0,1312.0,- House for sale,Staten Island,10314
+698,4950000,4,3.0,2684.0,- Townhouse for sale,New York,10014
+699,595000,1,1.0,921.0,- Apartment for sale,Long Island City,11109
+700,4750000,3,3.0,1901.0,- Condo for sale,New York,10013
+701,1095000,3,3.0,1280.0,- Townhouse for sale,Flushing,11374
+702,349000,1,1.0,800.0,- Condo for sale,Forest Hills,11375
+703,175000,1,1.0,500.0,- Condo for sale,New York,10031
+704,898000,4,3.0,2200.0,- Multi-family home for sale,Bronx,10461
+705,825000,6,5.0,2256.0,- Multi-family home for sale,Staten Island,10303
+706,649000,3,3.0,,- House for sale,Jamaica,11435
+707,450000,1,1.0,325.0,- Condo for sale,New York,10003
+708,39950000,5,6.0,7381.0,- Condo for sale,New York,10019
+709,265000,2,1.0,,- Condo for sale,Howard Beach,11414
+710,800000,3,2.0,1900.0,- Condo for sale,Brooklyn,11204
+711,369000,0,1.0,,- Condo for sale,New York,10014
+712,6750000,5,5.0,4122.0,- House for sale,Brooklyn,11201
+713,649999,3,2.0,1872.0,- House for sale,Bronx,10453
+714,1199000,4,4.0,3344.0,- Multi-family home for sale,Staten Island,10309
+715,599000,4,3.0,1274.0,- House for sale,Brooklyn,11208
+716,2999888,5,7.0,5550.0,- New construction,Staten Island,10304
+717,2980000,6,6.0,7000.0,- House for sale,Whitestone,11357
+718,79000000,6,8.0,8054.0,- Condo for sale,New York,10022
+719,429000,3,2.0,1293.0,- Townhouse for sale,Staten Island,10314
+720,950000,3,2.0,2340.0,- House for sale,Brooklyn,11234
+721,899000,3,3.0,2000.0,- House for sale,Flushing,11358
+722,599000,3,2.0,1600.0,- House for sale,Staten Island,10306
+723,999000,2,1.0,,- Condo for sale,New York,10025
+724,780000,4,4.0,2900.0,- House for sale,Queens Village,11429
+725,610000,2,4.0,1341.0,- House for sale,Bronx,10464
+726,250000,1,1.0,754.0,- Condo for sale,Kew Gardens,11415
+727,163000,0,1.0,550.0,- Condo for sale,Staten Island,10305
+728,170000,2,1.0,900.0,- Condo for sale,Bronx,10467
+729,500000,6,2.0,2200.0,- House for sale,Bronx,10473
+730,5999000,5,7.0,11400.0,- House for sale,Staten Island,10312
+731,425000,1,1.0,,- Condo for sale,New York,10009
+732,369000,1,1.0,464.0,- Condo for sale,Brooklyn,11211
+733,359000,1,1.0,550.0,- Condo for sale,Brooklyn,11214
+734,399900,3,2.0,1240.0,- Townhouse for sale,Staten Island,10314
+735,540000,3,3.0,1800.0,- House for sale,Bronx,10466
+736,269000,1,1.0,900.0,- Condo for sale,Rockaway Park,11694
+737,550000,3,2.0,1083.0,- Condo for sale,Brooklyn,11221
+738,483000,2,1.0,875.0,- Condo for sale,Long Island City,11106
+739,455000,2,2.0,1158.0,- Townhouse for sale,Staten Island,10314
+740,699000,3,2.0,1125.0,- House for sale,Ozone Park,11417
+741,958888,3,2.0,1760.0,- Multi-family home for sale,Astoria,11103
+742,10900000,3,4.0,3500.0,- Condo for sale,New York,10012
+743,265000,0,1.0,275.0,- Condo for sale,New York,10023
+744,1495000,4,4.0,3000.0,- Multi-family home for sale,Brooklyn,11221
+745,759999,3,2.0,1080.0,- House for sale,Middle Village,11379
+746,1250000,4,3.0,3360.0,- House for sale,Staten Island,10307
+747,1790000,7,6.0,,- New construction,Flushing,11354
+748,399000,1,1.0,410.0,- Apartment for sale,Brooklyn,11211
+749,709000,3,3.0,1410.0,- Townhouse for sale,Staten Island,10310
+750,949000,2,1.0,857.0,- Condo for sale,Brooklyn,11201
+751,1549000,4,4.0,2379.0,- House for sale,Flushing,11357
+752,325000,2,1.0,900.0,- Condo for sale,Bronx,10465
+753,1599000,2,2.0,,- Condo for sale,Brooklyn,11215
+754,320000,0,1.0,,- Condo for sale,Corona,11368
+755,595000,3,1.0,1100.0,- Condo for sale,New York,10032
+756,4250000,5,5.0,4480.0,- Condo for sale,Brooklyn,11215
+757,205000,2,1.0,800.0,- Condo for sale,Bronx,10463
+758,3250000,3,3.0,2000.0,- Condo for sale,New York,10001
+759,9800000,7,8.0,15000.0,- House for sale,Bronx,10471
+760,1599999,4,4.0,2800.0,- Multi-family home for sale,Staten Island,10306
+761,950000,1,1.0,750.0,- For sale by owner,New York,10011
+762,928000,3,3.0,2300.0,- House for sale,Staten Island,10305
+763,899000,3,4.0,1969.0,- Condo for sale,Bronx,10464
+764,549000,3,2.0,1064.0,- House for sale,Brooklyn,11229
+765,550000,2,1.0,800.0,- Condo for sale,Brooklyn,11224
+766,283000,2,1.0,780.0,- Condo for sale,Fresh Meadows,11365
+767,2799000,7,6.0,6603.0,- House for sale,Staten Island,10301
+768,850000,3,2.0,1552.0,- Coming soon,Middle Village,11379
+769,1800000,3,3.0,3090.0,- Townhouse for sale,Brooklyn,11209
+770,475000,0,1.0,500.0,- Apartment for sale,New York,10012
+771,415000,1,1.0,492.0,- Condo for sale,Brooklyn,11201
+772,849000,3,3.0,1936.0,- House for sale,Staten Island,10306
+773,699000,4,3.0,2236.0,- House for sale,Staten Island,10304
+774,1849000,5,4.0,4659.0,- House for sale,Brooklyn,11234
+775,552000,2,1.0,600.0,- Condo for sale,New York,10009
+776,448000,3,3.0,1800.0,- Condo for sale,Bayside,11360
+777,2258000,4,4.0,3776.0,- House for sale,Flushing,11357
+778,518000,2,3.0,2176.0,- Townhouse for sale,Staten Island,10312
+779,920000,3,2.0,1512.0,- House for sale,Staten Island,10309
+780,339000,2,1.0,800.0,- Condo for sale,Elmhurst,11373
+781,1600000,2,2.0,968.0,- For sale by owner,New York,10280
+782,225000,1,1.0,850.0,- Condo for sale,Little Neck,11363
+783,1600000,4,3.0,2500.0,- Multi-family home for sale,Brooklyn,11225
+784,569999,3,2.0,1200.0,- Townhouse for sale,Staten Island,10308
+785,318000,2,1.0,,- Condo for sale,Oakland Gardens,11364
+786,929000,3,2.0,1980.0,- House for sale,Brooklyn,11234
+787,399000,1,1.0,,- Condo for sale,New York,10011
+788,1265000,7,5.0,3000.0,- Multi-family home for sale,Brooklyn,11221
+789,2500000,5,3.0,3230.0,- House for sale,Brooklyn,11213
+790,1250000,4,2.0,1560.0,- House for sale,Brooklyn,11209
+791,779000,3,2.0,1648.0,- House for sale,Jamaica,11421
+792,318000,2,1.0,,- Condo for sale,Oakland Gardens,11364
+793,915000,4,4.0,2400.0,- House for sale,Staten Island,10309
+794,355000,2,1.0,850.0,- Condo for sale,Brooklyn,11221
+795,1880000,4,5.0,2600.0,- New construction,Flushing,11360
+796,1450000,5,3.0,,- Multi-family home for sale,Bayside,11361
