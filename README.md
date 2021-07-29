@@ -1,3 +1,3 @@
 # homePriceAnalysis
 
-I wrote a cralwer for Zillow. It worked well, finding me listings in NYC and surrounding areas. However, it only provided up to 800 listings. For further analysis. I tapped into Zillow's api.
+This code executes a scraper for Zillow. After scraping necessarry features: property bedroom count, bathroom count, square feet, pricing, it cleans the data to make it ready for processing.
